@@ -1,0 +1,65 @@
+# jemdoc: menu{MENU}{index.html}
+= Wenqi Fan
+
+~~
+{}{img_left}{images/Wenqi.JPG}{Image of Wenqi}{140}{150}{images/Wenqi.JPG}
+Dr. *Wenqi Fan* is currently a Research Assistant Professor (RAP) of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU). Before joining the Department, he worked as a Postdoctoral Fellow at PolyU. He received his Ph.D. degree in computer science from the City University of Hong Kong (CityU) in 2020, under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ Prof. Qing LI] and [http://www.cs.cityu.edu.hk/~jianwang/ Prof. Jianping WANG]. From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili Prof. Jiliang Tang].
+
+Email: wenqifan03(at)gmail(dot)com, wenqifan(at)polyu(dot)edu(dot)hk
+
+Office: PQ724c, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
+
+
+
+
+~~~
+
+>>>[./openings.html *Openings: *] I am actively recruiting self-motivated Postdoc, Ph.D. students, Joint Ph.D. students (i.e., UTS、CAS、SUSTech, etc.), MPhil/Msc, and Research Assistants. Visiting scholars and interns are also welcome. Send me an email if you are interested. 
+\[[./openings.html *More*]\]
+ 
+
+
+
+
+= Research Interests
+
+Data Mining and Machine Learning, with a particular focus on: 
+- Graph Neural Networks (GNNs)
+- Recommender Systems (RecSys) 
+- Adversarial Attacks and Defenses
+
+
+
+= News
+
+- 12/2021: One paper got accepted by *AAAI'22*.
+- 11/2021: Invited to serve as the Senior PC Member of *KDD'22*.
+- 09/2021: 1 paper got accepted by *ICDM'2021*.
+- 07/2021: Our new preprint "[https://arxiv.org/pdf/2107.06641.pdf *Trustworthy AI: A Computational Perspective*]" is online. 
+- 07/2021: Our tutorial on “*Trustworthy AI: A Computational Perspective*” is accepted for *ICAPS 2021*.
+- 06/2021: Invited to serve as PC Member for *ICLR 2020 and WSDM 2022*.
+- 06/2021: A Chinese Survey on Graph Nerual Networks based Recommender Systems, “[https://mp.weixin.qq.com/s/4XdBe_w3uijxmrKn2qq0ow *综述：基于图学习的推荐系统*]”.
+- 05/2021: Our paper “*AutoLoss: Automated Loss Function Search in Recommendations*” is accepted by *KDD 2021*.
+- 04/2021: Invited to serve as PC member for *NeurIPS\/CIKM 2021*.
+- 04/2021: Our tutorial on “[https://advanced-recommender-systems.github.io/ijcai2021-tutorial/ *Deep Learning for Recommendations: Fundamentals and Advances*]” is accepted to be held in *IJCAI 2021*. 
+- 12/2020: Our tutorial "[https://deeprs-tutorial.github.io *Deep Recommender System: Fundamentals and Advances*]" has been accepted by *WWW 2021*.
+- 12/2020: Invited to serve as PC member for *ICML 2021*.
+- 11/2020: Invited to serve as PC member for *KDD 2021*.
+- 10/2020: One full paper got accepted by *ICDE 2021*.
+- 09/2020: One paper got accepted by *COLING 2020* about Fairness\/bias in Dialogue Systems.
+- 08/2020: Invited to serve as PC member for *AAAI2021* and *IJCAI2021*.
+- 06/2020: One paper "*A Graph Neural Network Framework for Social Recommendations*" is accepted by *IEEE TKDE*.
+- 05/2020: Preprint "[http://arxiv.org/abs/2005.08147 Attacking Black-box Recommendations via Copying Cross-domain User Profiles]" [http://arxiv.org/abs/2005.08147 \[Arxiv\]]
+- 03/2020: *SDM2020* Doctoral Forum accepted "*Deep Social Recommendations*".
+- 03/2020: Awarded *SDM2020* Student Travel Award with funds from SIAM.
+- 12/2019: Two papers are accepted by *SDM 2020*.
+- 12/2019: Invited to serve as PC member for *IJCAI 2020* and *AI4EDU 2020*.
+- 10/2019: Preprint of our paper "[https://arxiv.org/abs/1910.10486 Does Gender Matter? Towards Fairness in Dialogue Systems]" is released [https://arxiv.org/abs/1910.10486 \[link\]].
+- 10/2019: Our paper "*Epidemic Graph Convolutional Network*" is accepted by *WSDM 2020* (Preprint coming soon!).
+- 06/2019: Our paper "*Deep Social Collaborative Filtering*" is accepted by *RecSys 2019*.
+- 06/2019: Received the *IJCAI 2019* Student Travel Award and will serve as volunteer.
+- 05/2019: Our paper "*Deep Adversarial Social Recommendation*" is accepted by *IJCAI 2019*.
+- 01/2019: Our paper "*Graph Neural Networks for Social Recmmendation*" is accepted by *WWW 2019*.
+
+
+
