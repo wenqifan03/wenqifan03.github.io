@@ -1,4 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
 = Wenqi Fan
 
 ~~
@@ -18,6 +19,8 @@ Office: PQ724c, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 \[[./openings.html *More*]\]
  
 
+
+>>> *Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using data mining\/machine learning\/artificial intelligence!*
 
 
 
@@ -63,4 +66,5 @@ Data Mining and Machine Learning, with a particular focus on:
 - 01/2019: Our paper "*Graph Neural Networks for Social Recmmendation*" is accepted by *WWW 2019*.
 
 
+ 
 
