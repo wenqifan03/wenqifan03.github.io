@@ -3,7 +3,7 @@
 = Wenqi Fan - Publications
 
 
-= Tutorials
+== Tutorials
 - Haochen Liu, Yiqi Wang, *Wenqi Fan*, Xiaorui Liu, Jamell Dacon, Lingjuan Lyu, and Jiliang Tang \n
   *Trustworthy AI: A Computational Perspective* \n
   The Web Conference (*WWW*, Tutorial), 2022. \n
@@ -53,7 +53,7 @@
   \[[./tutorials/WWW2021/RecSys_WWW_AutoML.pdf Slides-AutoML]\]
 
 
-= Recent Preprints
+== Recent Preprints
 
 - *Wenqi Fan*, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li \n
 *Graph Trend Networks for Recommendations* \n
@@ -71,7 +71,7 @@ Arxiv 2107.06641, 2021.
 \[[https://arxiv.org/pdf/2107.06641.pdf Arxiv]\]
 
 
-= Conference and Journal Publications
+== Conference and Journal Publications
 
 - Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
   *Multi-type Urban Crime Prediction* \n
