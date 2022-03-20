@@ -76,10 +76,13 @@ Arxiv 2107.06641, 2021.
 - Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
   *Multi-type Urban Crime Prediction* \n
   36th AAAI Conference on Artificial Intelligence (*AAAI 2022*). (* Corresponding author.)
+  \[[https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf pdf]\]
 
-- Xiangyu Zhao, Haochen Liu, *Wenqi Fan*, Hui Liu, Jiliang Tang, Chong Wang, Xudong Zheng, Xiaobing Liu, and Xiwang Yang \n
-  *AdaED: Adaptive Embedding Dimension for Online Recommender System* \n
-  IEEE 21st International Conference on Data Mining (*ICDM 2021*), *best-ranked papers*.
+
+- Xiangyu Zhao, Haochen Liu, *Wenqi Fan*, Hui Liu, Jiliang Tang, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, and Xiwang Yang \n
+  *AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations* \n
+  IEEE 21st International Conference on Data Mining (*ICDM 2021*), *best-ranked papers*. 
+  \[[https://ieeexplore.ieee.org/document/9679068 pdf]\]
 
 - Xiangyu Zhao, Haochen Liu, *Wenqi Fan\**, Hui Liu, Jiliang Tang, and Chong Wang \n 
   *AutoLoss: Automated Loss Function Search in Recommendations* \n 
@@ -124,7 +127,7 @@ Arxiv 2107.06641, 2021.
    In Proceedings of the International Joint Conference on Artificial Intelligence (*IJCAI 2019*), 2019. 
    \[[https://arxiv.org/abs/1905.13160 Arxiv]\] \[[https://drive.google.com/file/d/1lCvxGlkBm6ux3KderXlE0YE9ELSHlfbh/view?usp=sharing Slides]\] \[[https://drive.google.com/file/d/1m5fJ71wrJq0ykU9ytwwJpuI9GT_WVH09/view?usp=sharing Code]\]
 
--  *Wenqi Fan*, Yao Ma , Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin \n
+-  *Wenqi Fan*, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin \n
    *Graph Neural Networks for Social Recommendation*  \n
    In Proceedings of the 28th International Conference on World Wide Web (*WWW 2019*), 2019. (Full, Oral,  Acceptance rate: 18%.)  \[[https://arxiv.org/abs/1902.07243 Arxiv]\] \[[https://github.com/wenqifan03/GraphRec-WWW19 Code-Pytorch]\] \[[https://drive.google.com/file/d/1OznDPmlCmPVu9Ej72P2GZJScEzo9T8sS/view?usp=sharing Slides]\]
 
