@@ -55,10 +55,6 @@
 
 == Recent Preprints
 
-- *Wenqi Fan*, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li \n
-*Graph Trend Networks for Recommendations* \n
-ArXiv:2108.05552, 2021. 
-\[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\]
 
 - *Wenqi Fan*, Wei Jin, Xiaorui Liu, Han Xu, Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
 *Jointly Attacking Graph Neural Network and its Explanations* \n
@@ -72,6 +68,12 @@ Arxiv 2107.06641, 2021.
 
 
 == Conference and Journal Publications
+
+- *Wenqi Fan*, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li \n
+ *Graph Trend Filtering Networks for Recommendation* \n
+ 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR 2022*). 
+ \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\]
+
 
 - Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
   *Multi-type Urban Crime Prediction* \n
