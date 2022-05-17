@@ -4,7 +4,7 @@
 
 ~~
 {}{img_left}{images/Wenqi.jpg}{Image of Wenqi}{140}{150}{images/Wenqi.JPG}
-Dr. *Wenqi Fan* is currently a Research Assistant Professor (RAP) of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU). Before joining the Department, he worked as a Postdoctoral Fellow at PolyU. He received his Ph.D. degree in computer science from the City University of Hong Kong (CityU) in 2020, under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ Prof. Qing LI] and [http://www.cs.cityu.edu.hk/~jianwang/ Prof. Jianping WANG]. From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili Prof. Jiliang Tang]. He is recognized as the 2022 AI 2000 Most Influential Scholars Honorable Mention.
+Dr. *Wenqi Fan* is currently a Research Assistant Professor (RAP) of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU). Before joining the Department, he worked as a Postdoctoral Fellow at PolyU. He received his Ph.D. degree in computer science from the City University of Hong Kong (CityU) in 2020, under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ Prof. Qing LI] and [http://www.cs.cityu.edu.hk/~jianwang/ Prof. Jianping WANG]. From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili Prof. Jiliang Tang]. He is recognized as the 2022 AI 2000 Most Influential Scholars Honorable Mention. \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  Google Scholar]\]
 
 Email: wenqifan03(at)gmail(dot)com, wenqifan(at)polyu(dot)edu(dot)hk
 
@@ -22,7 +22,7 @@ Office: PQ724c, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 ~~~
 
 ~~~
->>> *Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using data mining\/machine learning\/artificial intelligence!*
+>>> *Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using Data Mining\/Machine Learning\/Artificial Intelligence!*
 ~~~
 
 
@@ -30,13 +30,14 @@ Office: PQ724c, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 == Research Interests
 
 Data Mining and Machine Learning, with a particular focus on: 
-- Graph Neural Networks (GNNs)
-- Recommender Systems (RecSys) 
-- Adversarial Attacks and Defenses
+- *Graph Neural Networks (GNNs)*
+- *Recommender Systems (RecSys)* 
+- *Adversarial Attacks and Defenses*
 
 
 
 == News
+
 : {*2022*}
 - 04/2022: Our new preprint "[https://arxiv.org/pdf/2204.01390.pdf *Automated Machine Learning for Deep Recommender Systems: A Survey*]" is online. 
 - 04/2022: 1 paper (*Graph Trend Filtering Networks for Recommendation* \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\] \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]) got accepted by SIGIR'22.
