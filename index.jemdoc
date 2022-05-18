@@ -39,9 +39,13 @@ Data Mining and Machine Learning, with a particular focus on:
 == News
 
 : {*2022*}
+
+- 05/2022: Our survey paper (*Trustworthy AI: A Computational Perspective* \[[https://arxiv.org/abs/2107.06641 Arxiv]\]) is accepted by *ACM TIST*.
+ In the survey, we examine *SIX* dimensions in achieving trustworthy AI, including *(i) Safety & Robustness, (ii) Non-discrimination & Fairness, (iii) Explainability, (iv) Privacy, (v) Accountability & Auditability, and (vi) Environmental Well-Being*, and review the latest research works in each dimension from a computational perspective.
+
 - 04/2022: Our new preprint "[https://arxiv.org/pdf/2204.01390.pdf *Automated Machine Learning for Deep Recommender Systems: A Survey*]" is online. 
-- 04/2022: 1 paper (*Graph Trend Filtering Networks for Recommendation* \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\] \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]) got accepted by SIGIR'22.
-- 03/2022: I am invited to serve as a reviewer for NeurIPS 2022.
+- 04/2022: 1 paper (*Graph Trend Filtering Networks for Recommendation* \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\] \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]) got accepted by *SIGIR'2022*.
+- 03/2022: I am invited to serve as a reviewer for *NeurIPS 2022*.
 - 03/2022: I was recognized as "*2022年AI 2000人工智能最具影响力学者提名奖！*" ("*2022 AI 2000 Most Influential Scholar Honorable Mention*"  in Information Retrieval and Recommendation) based on the Tsinghua-AMiner academic data. [https://aminer.cn/ai2000 *榜单链接Link*]. 
 
 
