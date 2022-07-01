@@ -33,7 +33,7 @@ Office: PQ724c, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 I am actively recruiting self-motivated *Postdoc, Ph.D. students, Joint Ph.D. students (i.e., UTS、CAS、SUSTech, etc.), MPhil/Msc, and Research Assistants*, etc. 
 Visiting scholars, interns, and self-funded students are also welcome. 
 Send me an email if you are interested. 
-\[[./openings.html *Please see here for position details.*]\]
+\[[./openings.html *Please click here for position details.*]\]
 ~~~
 
 ~~~
@@ -55,7 +55,10 @@ Data Mining and Machine Learning, with a particular focus on:
 == News
 
 : {*2022*}
+
+- 06\/2022: Gratefully receive two grants (*RGC-GRF and Internal Research Fund@PolyU*) as the PI to support our research on Graph Neural Networks. Multiple PhD\/Postdoc\/RA positions are available (Year-round Recruitment). \[[./openings.html *Please click here for position details.*]\]
 - 05/2022: One paper (*Knowledge-enhanced Black-box Attacks for Recommendations*) got accepted by *KDD'2022*. Congratulations to my incoming PhD student Jingfan for his first paper with PolyU. 
+
 - 05/2022: Our survey paper (*Trustworthy AI: A Computational Perspective* \[[https://arxiv.org/abs/2107.06641 Arxiv]\]) is accepted by *ACM TIST*.
  In the survey, we examine *SIX* dimensions in achieving trustworthy AI, including *(i) Safety & Robustness, (ii) Non-discrimination & Fairness, (iii) Explainability, (iv) Privacy, (v) Accountability & Auditability, and (vi) Environmental Well-Being*, and review the latest research works in each dimension from a computational perspective.
 
