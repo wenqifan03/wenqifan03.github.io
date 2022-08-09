@@ -7,7 +7,7 @@
 Dr. *Wenqi Fan* is currently a Research Assistant Professor (RAP) of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU). Before joining the Department, he worked as a Postdoctoral Fellow at PolyU. He received his Ph.D. degree in computer science from the City University of Hong Kong (CityU) in 2020, under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
 From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili *Prof. Jiliang Tang*]. 
 He is recognized as the *2022 AI 2000 Most Influential Scholars Honorable Mention* ("*被提名为2022年AI 2000人工智能最具影响力学者!*" ). 
-His research has been supported by multiple government research fund agencies, including National Natural Science Foundation of China (*NSFC*), Hong Kong Research Grants Council (*RGC-GRF*), and Hong Kong Innovation and Technology Commission (*ITF*), etc. 
+His research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council (*RGC-GRF*), National Natural Science Foundation of China (*NSFC*), and Hong Kong Innovation and Technology Commission (*ITF*), etc. 
 He has published his research in highly ranked journals and top conference proceedings \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]. 
 
 
@@ -48,16 +48,15 @@ Send me an email if you are interested.
 Data Mining and Machine Learning, with a particular focus on: 
 - *Graph Neural Networks (GNNs)*
 - *Recommender Systems (RecSys)* 
-- *Adversarial Attacks and Defenses*
+- *Trustworthy AI*
 
 
 
 == News
 
 : {*2022*}
-
-- 07\/2022: Invited to serve as the Senior PC Member of *AAAI'2023*.
-
+- 08/2022: One paper (*Disentangled Contrastive Learning for Social Recommendation*) got accepted by *CIKM'2022*. Congratulations to Jiahao WU for his first paper with PolyU. 
+- 07\/2022: Invited to serve as the (Senior) PC Member of *AAAI'2023* and *ICLR'2023*.
 - 06\/2022: Gratefully receive two grants (*RGC-GRF and Internal Research Fund@PolyU*) as the PI to support our research on Graph Neural Networks. Multiple PhD\/Postdoc\/RA positions are available (Year-round Recruitment). \[[./openings.html *Please click here for position details.*]\]
 - 05/2022: One paper (*Knowledge-enhanced Black-box Attacks for Recommendations*) got accepted by *KDD'2022*. Congratulations to my incoming PhD student Jingfan for his first paper with PolyU. 
 
