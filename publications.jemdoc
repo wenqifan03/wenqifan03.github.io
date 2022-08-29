@@ -76,16 +76,22 @@ Arxiv 2108.03388, 2021.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, *Wenqi Fan*, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong Wei\n
+*Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations* \n
+In Briefings in Bioinformatics (*BIB*), 2022. \n
+\[[./papers/BIB-2022-ATC-SMILES.pdf PDF]\] \[[https://github.com/lookwei/ATC_CNN Code]\] (Impact Factor: 13.994) 
+
+
 - Jiahao Wu,  *Wenqi Fan*, Jingfan Chen, Shengcai Liu, Qing Li, and Ke Tang \n
 *Disentangled Contrastive Learning for Social Recommendation*  \n
 In ACM International on Conference on Information and Knowledge Management (*CIKM 2022*), 2022. \n
-\[[. pdf Coming]\]
+\[[https://arxiv.org/abs/2208.08723 PDF]\]
 
 
 - Jingfan Chen (incoming PhD student), *Wenqi Fan*, Guanghui Zhu, Xiangyu Zhao, Chunfeng Yuan, Qing Li, and Yihua Huang \n
 *Knowledge-enhanced Black-box Attacks for Recommendations*  \n
 In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2022*), 2022. \n
-\[[https://arxiv.org/abs/2207.10307 pdf]\] \[[./slides/KDD2022/KDD2022-KGAttack.pdf Slides]\] 
+\[[https://arxiv.org/abs/2207.10307 PDF]\] \[[./slides/KDD2022/KDD2022-KGAttack.pdf Slides]\] 
 
 
 
@@ -105,13 +111,13 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
 - Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
   *Multi-type Urban Crime Prediction* \n
   36th AAAI Conference on Artificial Intelligence (*AAAI 2022*).  \n
-  \[[https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf pdf]\] (* Corresponding author.)
+  \[[https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf PDF]\] (* Corresponding author.)
 
 
 - Xiangyu Zhao, Haochen Liu, *Wenqi Fan*, Hui Liu, Jiliang Tang, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, and Xiwang Yang \n
   *AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations* \n
   IEEE 21st International Conference on Data Mining (*ICDM 2021*), *best-ranked papers*. \n
-  \[[https://ieeexplore.ieee.org/document/9679068 pdf]\]
+  \[[https://ieeexplore.ieee.org/document/9679068 PDF]\]
 
 - Xiangyu Zhao, Haochen Liu, *Wenqi Fan\**, Hui Liu, Jiliang Tang, and Chong Wang \n 
   *AutoLoss: Automated Loss Function Search in Recommendations* \n 
@@ -131,17 +137,17 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
 -  *Wenqi Fan*, Yao Ma , Qing Li, Jianping Wang, Guoyong Cai, Jiliang Tang, and Dawei Yin \n
    *A Graph Neural Network Framework for Social Recommendations* \n
    In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2020*), 2020.  \n
-   \[[https://ieeexplore.ieee.org/document/9139346 pdf]\]
+   \[[https://ieeexplore.ieee.org/document/9139346 PDF]\]
 
 -  *Wenqi Fan*, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, and Jiliang Tang \n 
    *Deep Adversarial Canonical Correlation Analysis*  \n 
    In Proceedings of the 2020 SIAM International Conference on Data Mining (*SDM 2020*), 2020.  \n
-   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.40 pdf]\]
+   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.40 PDF]\]
 
 -  Wentao Wang, Suhang Wang, *Wenqi Fan*, Zitao Liu, and Jiliang Tang \n
    *Global-and-Local Aware Data Generation for the Class Imbalance Problem* \n
    In Proceedings of the 2020 SIAM International Conference on Data Mining (*SDM 2020*), 2020. \n
-   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.35 pdf]\]
+   \[[https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.35 PDF]\]
 
 -  Tyler Derr, Yao Ma, *Wenqi Fan*, Xiaorui Liu, Charu Aggarwal, and Jiliang Tang \n
    *Epidemic Graph Convolutional Network* \n
