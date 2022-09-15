@@ -75,6 +75,11 @@ Arxiv 2108.03388, 2021.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+- Guanhua Zhang, Yihua Zhang, Yang Zhang, *Wenqi Fan*, Qing Li, Sijia Liu, Shiyu Chang \n
+*Fairness Reprogramming* \n
+In Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
+\[[. PDF]\]
+
 
 - Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, *Wenqi Fan*, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong Wei\n
 *Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations* \n
@@ -105,7 +110,7 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
 - *Wenqi Fan*, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing Li \n
  *Graph Trend Filtering Networks for Recommendation*  \n
  45th International ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR 2022*). \n
- \[[https://arxiv.org/pdf/2108.05552.pdf Arxiv]\]  \[[./slides/SIGIR2022/sigir2022-GTN.pdf Slides]\]  \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]
+ \[[https://arxiv.org/pdf/2108.05552.pdf PDF]\]  \[[./slides/SIGIR2022/sigir2022-GTN.pdf Slides]\]  \[[https://github.com/wenqifan03/GTN-SIGIR2022 Code-Pytorch]\]
 
 
 - Xiangyu Zhao, *Wenqi Fan\**, Hui Liu, and Jiliang Tang \n
