@@ -55,21 +55,25 @@
 
 
 == Recent Preprints
+- *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
+*A Comprehensive Survey on Trustworthy Recommender Systems* \n
+ArXiv 2209.10117, 2022. \[[https://arxiv.org/abs/2209.10117 ArXiv]\]
+
 
 - Yuxuan Wan, Han Xu, Xiaorui Liu, Jie Ren, *Wenqi Fan*, and Jiliang Tang \n 
 *Defense Against Gradient Leakage Attacks via Learning to Obscure Data* \n 
-Arxiv 2206.00769, 2022. 
-\[[https://arxiv.org/abs/2206.00769 Arxiv]\]
+ArXiv 2206.00769, 2022. 
+\[[https://arxiv.org/abs/2206.00769 ArXiv]\]
 
 - Bo Chen, Xiangyu Zhao, Yejing Wang, *Wenqi Fan*, Huifeng Guo, and Ruiming Tang \n 
 *Automated Machine Learning for Deep Recommender Systems: A Survey* \n 
-Arxiv 2204.01390, 2022. 
-\[[https://arxiv.org/pdf/2204.01390.pdf Arxiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
+ArXiv 2204.01390, 2022. 
+\[[https://arxiv.org/pdf/2204.01390.pdf ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
 
 - *Wenqi Fan*, Wei Jin, Xiaorui Liu, Han Xu, Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
 *Jointly Attacking Graph Neural Network and its Explanations* \n
-Arxiv 2108.03388, 2021. 
-\[[https://arxiv.org/pdf/2108.03388.pdf Arxiv]\]
+ArXiv 2108.03388, 2021. 
+\[[https://arxiv.org/pdf/2108.03388.pdf ArXiv]\]
 
 
 
@@ -103,7 +107,7 @@ In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data
 - Haochen Liu, Yiqi Wang, *Wenqi Fan*, Xiaorui Liu, Yaxin Li, Shaili Jain, Yunhao Liu, Anil K. Jain, and Jiliang Tang \n 
 *Trustworthy AI: A Computational Perspective* \n 
 ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
-\[[https://arxiv.org/abs/2107.06641 Arxiv]\] 
+\[[https://arxiv.org/abs/2107.06641 ArXiv]\] 
 
 
 
@@ -127,17 +131,17 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
 - Xiangyu Zhao, Haochen Liu, *Wenqi Fan\**, Hui Liu, Jiliang Tang, and Chong Wang \n 
   *AutoLoss: Automated Loss Function Search in Recommendations* \n 
   In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2021*), 2021.  \n
-  \[[https://arxiv.org/abs/2106.06713 Arxiv]\] \[[./slides/KDD2021/kdd2021slides.pdf Slides]\] (* Corresponding author.)
+  \[[https://arxiv.org/abs/2106.06713 ArXiv]\] \[[./slides/KDD2021/kdd2021slides.pdf Slides]\] (* Corresponding author.)
 
 - *Wenqi Fan*, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, and Qing Li \n
   *Attacking Black-box Recommendations via Copying Cross-domain User Profiles* \n
   In Proceedings of 37th IEEE International Conference on Data Engineering (*ICDE 2021, Full paper*)  \n
-  \[[http://arxiv.org/abs/2005.08147 Arxiv]\] \[[./slides/ICDE2021/CopyAttack.pdf Slides]\]
+  \[[http://arxiv.org/abs/2005.08147 ArXiv]\] \[[./slides/ICDE2021/CopyAttack.pdf Slides]\]
 
 -  Haochen Liu, Jamell Dacon, *Wenqi Fan*, Hui Liu, Zitao Liu, and Jiliang Tang \n
   *Does Gender Matter? Towards Fairness in Dialogue Systems* \n
   In Proceedings of the 28th International Conference on Computational Linguistics (*COLING 2020*), 2020. \n
-  \[[https://arxiv.org/abs/1910.10486 Arxiv]\]  
+  \[[https://arxiv.org/abs/1910.10486 ArXiv]\]  
 
 -  *Wenqi Fan*, Yao Ma , Qing Li, Jianping Wang, Guoyong Cai, Jiliang Tang, and Dawei Yin \n
    *A Graph Neural Network Framework for Social Recommendations* \n
@@ -162,17 +166,17 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
 -  *Wenqi Fan*, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, and Qing Li. \n
    *Deep Social Collaborative Filtering* \n
    In Proceedings of the 13th ACM Conference on Recommender Systems (*RecSys 2019*), 2019. (Long Paper,  Acceptance rate: 19%.) \n
-   \[[https://arxiv.org/abs/1907.06853 Arxiv]\]  
+   \[[https://arxiv.org/abs/1907.06853 ArXiv]\]  
 
 -  *Wenqi Fan*, Tyler Derr, Yao Ma, Jianping Wang, Jiliang Tang, and Qing Li \n
    *Deep Adversarial Social Recommendation*  \n
    In Proceedings of the International Joint Conference on Artificial Intelligence (*IJCAI 2019*), 2019. \n
-   \[[https://arxiv.org/abs/1905.13160 Arxiv]\] \[[https://drive.google.com/file/d/1lCvxGlkBm6ux3KderXlE0YE9ELSHlfbh/view?usp=sharing Slides]\] \[[https://drive.google.com/file/d/1m5fJ71wrJq0ykU9ytwwJpuI9GT_WVH09/view?usp=sharing Code]\]
+   \[[https://arxiv.org/abs/1905.13160 ArXiv]\] \[[https://drive.google.com/file/d/1lCvxGlkBm6ux3KderXlE0YE9ELSHlfbh/view?usp=sharing Slides]\] \[[https://drive.google.com/file/d/1m5fJ71wrJq0ykU9ytwwJpuI9GT_WVH09/view?usp=sharing Code]\]
 
 -  *Wenqi Fan*, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei Yin \n
    *Graph Neural Networks for Social Recommendation*  \n
    In Proceedings of the 28th International Conference on World Wide Web (*WWW 2019*), 2019. (Full, Oral,  Acceptance rate: 18%.)  \n
-   \[[https://arxiv.org/abs/1902.07243 Arxiv]\] \[[https://github.com/wenqifan03/GraphRec-WWW19 Code-Pytorch]\] \[[https://drive.google.com/file/d/1OznDPmlCmPVu9Ej72P2GZJScEzo9T8sS/view?usp=sharing Slides]\]
+   \[[https://arxiv.org/abs/1902.07243 ArXiv]\] \[[https://github.com/wenqifan03/GraphRec-WWW19 Code-Pytorch]\] \[[https://drive.google.com/file/d/1OznDPmlCmPVu9Ej72P2GZJScEzo9T8sS/view?usp=sharing Slides]\]
 
 -  *Wenqi Fan*, Qing Li, and Min Cheng \n
    *Deep Modeling of Social Relations for Recommendation*  \n
