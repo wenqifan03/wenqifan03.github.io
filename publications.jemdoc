@@ -55,6 +55,7 @@
 
 
 == Recent Preprints
+
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
 *A Comprehensive Survey on Trustworthy Recommender Systems* \n
 ArXiv 2209.10117, 2022. \[[https://arxiv.org/abs/2209.10117 ArXiv]\] \[[./papers/2022-TRec.pdf PDF]\]
@@ -65,24 +66,30 @@ ArXiv 2209.10117, 2022. \[[https://arxiv.org/abs/2209.10117 ArXiv]\] \[[./papers
 ArXiv 2206.00769, 2022. 
 \[[https://arxiv.org/abs/2206.00769 ArXiv]\]
 
+
 - Bo Chen, Xiangyu Zhao, Yejing Wang, *Wenqi Fan*, Huifeng Guo, and Ruiming Tang \n 
 *Automated Machine Learning for Deep Recommender Systems: A Survey* \n 
 ArXiv 2204.01390, 2022. 
 \[[https://arxiv.org/pdf/2204.01390.pdf ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
 
-- *Wenqi Fan*, Wei Jin, Xiaorui Liu, Han Xu, Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
-*Jointly Attacking Graph Neural Network and its Explanations* \n
-ArXiv 2108.03388, 2021. 
-\[[https://arxiv.org/pdf/2108.03388.pdf ArXiv]\]
-
 
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+
+- *Wenqi Fan*, Han Xu, Wei Jin, Xiaorui Liu,  Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
+*Jointly Attacking Graph Neural Network and its Explanations* \n
+In Proceedings of 39th IEEE International Conference on Data Engineering (*ICDE 2023, Full paper*).  \n
+\[[https://arxiv.org/pdf/2108.03388.pdf ArXiv]\]
+
+
+
 - Guanhua Zhang, Yihua Zhang, Yang Zhang, *Wenqi Fan*, Qing Li, Sijia Liu, Shiyu Chang \n
 *Fairness Reprogramming* \n
 In Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
 \[[. PDF]\]
+
 
 
 - Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, *Wenqi Fan*, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong Wei\n
