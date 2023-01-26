@@ -84,25 +84,29 @@ ArXiv 2204.01390, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Xiao Chen, *Wenqi Fan*, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li and Zhaoxiang Zhang \n
+*Fairly Adaptive Negative Sampling for Recommendations* \n
+In The Web Conference (*WWW 2023*), 2023.  
+
 
 - *Wenqi Fan*, Han Xu, Wei Jin, Xiaorui Liu,  Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
 *Jointly Attacking Graph Neural Network and its Explanations* \n
-In Proceedings of 39th IEEE International Conference on Data Engineering (*ICDE 2023, Full paper*).  \n
+In Proceedings of 39th IEEE International Conference on Data Engineering (*ICDE 2023*), 2023.  \n
 \[[https://arxiv.org/pdf/2108.03388.pdf ArXiv]\]
 
 
 
 - Guanhua Zhang, Yihua Zhang, Yang Zhang, *Wenqi Fan*, Qing Li, Sijia Liu, Shiyu Chang \n
 *Fairness Reprogramming* \n
-In Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS*), 2022. \n
-\[[https://arxiv.org/abs/2209.10222 PDF]\]
+In Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*), 2022. \n
+\[[https://arxiv.org/abs/2209.10222 PDF]\] \[[https://github.com/UCSB-NLP-Chang/Fairness-Reprogramming Code]\] 
 
 
 
 - Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang, *Wenqi Fan*, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong Wei\n
 *Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations* \n
-In Briefings in Bioinformatics (*BIB*), 2022. \n
-\[[./papers/BIB-2022-ATC-SMILES.pdf PDF]\] \[[https://github.com/lookwei/ATC_CNN Code]\] (Impact Factor: 13.994) 
+In Briefings in Bioinformatics (*BIB*), 2022. (Impact Factor: 13.994) \n
+\[[./papers/BIB-2022-ATC-SMILES.pdf PDF]\] \[[https://github.com/lookwei/ATC_CNN Code]\]  
 
 
 - Jiahao Wu,  *Wenqi Fan*, Jingfan Chen, Shengcai Liu, Qing Li, and Ke Tang \n
