@@ -81,18 +81,19 @@ arXiv: 2206.00769, 2022.
 
 
 - Bo Chen, Xiangyu Zhao, Yejing Wang, *Wenqi Fan*, Huifeng Guo, and Ruiming Tang \n 
-*Automated Machine Learning for Deep Recommender Systems: A Survey* \n 
+*A Comprehensive Survey on Automated Machine Learning for Recommendations* \n 
 arXiv: 2204.01390, 2022. 
-\[[https://arxiv.org/pdf/2204.01390.pdf ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
+\[[https://arxiv.org/abs/2204.01390 ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
 
 
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
-- Xiao Chen, *Wenqi Fan*, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li and Zhaoxiang Zhang \n
+- Xiao Chen, *Wenqi Fan*, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li, and Zhaoxiang Zhang \n
 *Fairly Adaptive Negative Sampling for Recommendations* \n
-In The Web Conference (*WWW 2023*), 2023.  
+In The Web Conference (*WWW 2023*), 2023.  \n
+\[[https://arxiv.org/abs/2302.08266 PDF]\]
 
 
 - *Wenqi Fan*, Han Xu, Wei Jin, Xiaorui Liu,  Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu Aggarwal \n
