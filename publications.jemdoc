@@ -65,8 +65,6 @@
 
 
 
-
-
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
 *A Comprehensive Survey on Trustworthy Recommender Systems* \n
 arXiv: 2209.10117, 2022. \[[https://arxiv.org/abs/2209.10117 ArXiv]\] \[[./papers/2022-TRec.pdf PDF]\]
@@ -87,6 +85,11 @@ arXiv: 2204.01390, 2022.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+
+-  *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
+   *Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
+   In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
 
 
 - Chengyi Liu, *Wenqi Fan*, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
