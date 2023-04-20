@@ -64,9 +64,7 @@
 == Recent Preprints
 
 
-- *Wenqi Fan*, Chengyi Liu, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
-*Generative Diffusion Models on Graphs: Methods and Applications* \n
-arXiv: 2302.02591, 2023. \[[https://arxiv.org/abs/2302.02591 ArXiv]\] \[[./papers/2023-DiffGraph.pdf PDF]\]
+
 
 
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
@@ -89,6 +87,14 @@ arXiv: 2204.01390, 2022.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+
+- Chengyi Liu, *Wenqi Fan*, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
+*Generative Diffusion Models on Graphs: Methods and Applications* \n
+In International Joint Conference on Artificial Intelligence (*IJCAI 2023*). arXiv: 2302.02591, 2023. \n
+\[[https://arxiv.org/abs/2302.02591 ArXiv]\] \[[./papers/2023-DiffGraph.pdf PDF]\]
+
+
 
 - Xiao Chen, *Wenqi Fan*, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li, and Zhaoxiang Zhang \n
 *Fairly Adaptive Negative Sampling for Recommendations* \n
