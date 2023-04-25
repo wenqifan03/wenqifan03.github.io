@@ -5,6 +5,12 @@
 
 == Tutorials
 
+- *Wenqi Fan*, Xiangyu Zhao,  Xiao Chen, Jingtong Gao, Qidong Liu, and Lin Wang \n 
+  *Trustworthy Recommender Systems: Foundations and Frontiers* \n
+  International Joint Conference on Artificial Intelligence (*IJCAI*, Tutorial), 2023. \n
+  \[[https://advanced-recommender-systems.github.io/trustworthy-rec/ Website]\] 
+  \[[https://arxiv.org/abs/2209.10117  Survey]\]
+
 - *Wenqi Fan*, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, and Qidong Liu \n 
   *Trustworthy Recommender Systems* \n
   The Web Conference (*WWW*, Tutorial), 2023. \n
@@ -87,7 +93,7 @@ arXiv: 2204.01390, 2022.
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
 
--  *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
+- *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
    *Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
    In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
 
