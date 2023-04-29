@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{tutorials.html}
+# jemdoc: nofooter
+= Wenqi Fan - Tutorials
+
+
+== Tutorials
+
+- *Wenqi Fan*, Xiangyu Zhao,  Xiao Chen, Jingtong Gao, Qidong Liu, and Lin Wang \n 
+  *Trustworthy Recommender Systems: Foundations and Frontiers* \n
+  International Joint Conference on Artificial Intelligence (*IJCAI*, Tutorial), 2023. \n
+  \[[https://advanced-recommender-systems.github.io/trustworthy-rec/ Website]\] 
+  \[[https://arxiv.org/abs/2209.10117  Survey]\]
+
+- *Wenqi Fan*, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, and Qidong Liu \n 
+  *Trustworthy Recommender Systems* \n
+  The Web Conference (*WWW*, Tutorial), 2023. \n
+  \[[https://advanced-recommender-systems.github.io/trustworthiness-tutorial/ Website]\] 
+  \[[https://arxiv.org/abs/2209.10117  Survey]\]
+  \[[./tutorials/WWW2023/2023-WWW-Trustworthy-Recommender-Systems-Slides-1.pdf  Slides-TRec-1]\]
+  \[[./tutorials/WWW2023/2023-WWW-Trustworthy-Recommender-Systems-Slides-2.pdf  Slides-TRec-2]\]
+
+- Haochen Liu, Yiqi Wang, *Wenqi Fan*, Xiaorui Liu, Jamell Dacon, Lingjuan Lyu, and Jiliang Tang \n
+  *Trustworthy AI: A Computational Perspective* \n
+  The Web Conference (*WWW*, Tutorial), 2022. \n
+  \[[https://sites.google.com/msu.edu/trustworthy-ai/ Website]\]  \[[https://sites.google.com/msu.edu/trustworthy-ai/ Slides]\]
+
+
+- Xiangyu Zhao, *Wenqi Fan*, Bo Chen, and Ruiming Tang \n
+  *Automated Machine Learning for Recommendations: Fundamentals and Advances* \n
+  The Web Conference (*WWW*, Tutorial), 2022. \n
+  \[[https://advanced-recommender-systems.github.io/AutoML-Recommendations/ Website]\] 
+  \[[https://advanced-recommender-systems.github.io/AutoML-Recommendations/doc/AutoML_RecSys_WWW2022.pdf Slides]\] 
+
+
+- *Wenqi Fan*, Xiangyu Zhao, Dawei Yin, and Jiliang Tang \n 
+  *Deep Learning for Recommendations: Fundamentals and Advances* \n
+  The 30th International Joint Conference on Artificial Intelligence (*IJCAI*, Tutorial), 2021. \n
+  \[[https://advanced-recommender-systems.github.io/ijcai2021-tutorial/ Website]\] 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_Intro.pdf  Slides-RecSys-Intro]\], 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_DNN.pdf  Slides-DNNs]\], 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_RL.pdf  Slides-RL]\],
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_GNNs.pdf  Slides-GNNs]\], 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_AutoML.pdf  Slides-RecSys-AutoML]\], 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_Adversarial_Attacks.pdf  Slides-Adversarial-Attacks]\], 
+  \[[./tutorials/ijcai2021/RecSys_IJCAI_future_directions.pdf Slides-Trustworthy-RecSys]\]
+
+- Haochen Liu, Yiqi Wang, *Wenqi Fan*, Xiaorui Liu, Yaxin Li, and Jiliang Tang \n
+  *Trustworthy AI: A Computational Perspective* \n
+  The International Conference on Automated Planning and Scheduling (*ICAPS*, Tutorial), 2021.  \n
+  \[[https://sites.google.com/msu.edu/trustworthy-ai/ Website]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Intro.pdf Slides-Intro]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Privacy.pdf Slides-Privacy]\], 
+  \[[./tutorials/ICAPS2021ICAPS_Robustness.pdf Slides-Safety&Robustness]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Explainability.pdf Slides-Explainability]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Fairness.pdf Slides-Fairness]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Environmental_well-being.pdf Slides-Environmental_well-being]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Accountability-auditability.pdf Slides-Accountability&auditability]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Interactions.pdf Slides-Dimension_Interactions]\], 
+  \[[./tutorials/ICAPS2021/ICAPS_Conclusion2.pdf Slides-Future Directions]\]
+
+- Xiangyu Zhao, *Wenqi Fan*, Dawei Yin, and Jiliang Tang \n 
+  *Deep Recommender System: Fundamentals and Advances* \n
+  The Web Conference (*WWW*, Tutorial), 2021.  \n
+  \[[https://deeprs-tutorial.github.io Website]\], 
+  \[[./tutorials/WWW2021/RecSys_WWW_Intro.pdf Slides-RecSys-Intro]\],  
+  \[[./tutorials/WWW2021/RecSys_WWW_DNN.pdf Slides-DNNs]\],  
+  \[[./tutorials/WWW2021/RecSys_WWW_RL.pdf Slides-RL]\], 
+  \[[./tutorials/WWW2021/RecSys_WWW_GNNs.pdf Slides-GNNs]\], 
+  \[[./tutorials/WWW2021/RecSys_WWW_AutoML.pdf Slides-AutoML]\]
+
+
+
+
+
+
