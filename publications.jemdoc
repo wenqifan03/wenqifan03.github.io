@@ -31,7 +31,9 @@
 
 == Recent Preprints
 
-
+- Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
+*Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
+arXiv:2306.06615, 2023. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] 
 
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
 *A Comprehensive Survey on Trustworthy Recommender Systems* \n
