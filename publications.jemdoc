@@ -6,6 +6,8 @@
 
 == [./tutorials.html *Tutorials*] \[[./tutorials.html *More*]\]
 
+-  *Recommender Systems in the Era of Large Language Models (LLMs)*,  IEEE International Conference on Data Mining (*ICDM*, Tutorial), 2023. [./tutorials.html *More*] \n
+
 -  *Trustworthy Recommender Systems: Foundations and Frontiers*, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD*, Tutorial), 2023. [./tutorials.html *More*] \n
  
 -  *Trustworthy Recommender Systems: Foundations and Frontiers*, International Joint Conference on Artificial Intelligence (*IJCAI*, Tutorial), 2023. [./tutorials.html *More*] \n
@@ -82,7 +84,9 @@ arXiv: 2204.01390, 2022.
 - Chengyi Liu, *Wenqi Fan*, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
 *Generative Diffusion Models on Graphs: Methods and Applications* \n
 In International Joint Conference on Artificial Intelligence (*IJCAI 2023*). arXiv: 2302.02591, 2023. \n
-\[[https://arxiv.org/abs/2302.02591 ArXiv]\] \[[./papers/2023-DiffGraph.pdf PDF]\] \[[https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg 中文Chinese]\] 
+\[[https://arxiv.org/abs/2302.02591 ArXiv]\] \[[./papers/2023-DiffGraph.pdf PDF]\] \[[https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg 中文Chinese]\] \[[https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs GitHub]\] 
+
+
 
 
 
