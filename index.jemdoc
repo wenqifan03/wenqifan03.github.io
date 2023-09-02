@@ -3,12 +3,13 @@
 = Wenqi Fan
 
 ~~
-{}{img_left}{images/Wenqi.jpg}{Image of Wenqi}{140}{150}{images/Wenqi.JPG}
-Dr. *Wenqi Fan* is currently a Research Assistant Professor (RAP) of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU). Before joining the Department, he worked as a Postdoctoral Fellow at PolyU. He received his Ph.D. degree in computer science from the City University of Hong Kong (CityU) in 2020, under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
-From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili *Prof. Jiliang Tang*]. 
-He is recognized as the *AI 2000 Most Influential Scholar Award Honorable Mention* ([./others/AI-2000-2022.png 2022], [./others/AI-2000-2023.png 2023]). 
-His research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council (*RGC-GRF*), National Natural Science Foundation of China (*NSFC*), Hong Kong Innovation and Technology Commission (*ITF*), etc. 
-He has published his research in highly ranked journals and top conference proceedings \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]. 
+{}{img_left}{images/Wenqi.jpg}{Image of Wenqi}{160}{175}{images/Wenqi.JPG}
+
+Assistant Professor \n
+Department of Computing (COMP), Faculty of Engineering \n
+Department of Management and Marketing (MM), Business School \n
+The Hong Kong Polytechnic University (PolyU)
+
 
 
 Email: wenqifan03(at)gmail(dot)com, wenqi.fan(at)polyu(dot)edu(dot)hk
@@ -20,21 +21,16 @@ Office: PQ743, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 
 
 
+== Short Bio
 
 
+Dr. *Wenqi Fan* is currently an Assistant Professor of the Department of Computing (COMP) & Department of Management and Marketing (MM), The Hong Kong Polytechnic University (PolyU). Before that, he was a Research Assistant Professor and a Postdoctoral Fellow at PolyU (2020-2023). He received his Ph.D. degree in computer science from the City University of Hong Kong (2017-2020), under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
+From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili *Prof. Jiliang Tang*]. 
+He is recognized as the *AI 2000 Most Influential Scholar Award Honorable Mention* ([./others/AI-2000-2022.png 2022], [./others/AI-2000-2023.png 2023]). 
+His research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council (*RGC-GRF*), National Natural Science Foundation of China (*NSFC*), Hong Kong Innovation and Technology Commission (*ITF*), etc. 
+He has published his research in highly ranked journals and top conference proceedings \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]. 
 
 
-
-
-
-~~~
-
->>>[./openings.html *Openings: *] 
-Our research group are actively recruiting self-motivated *Postdoc, Ph.D. students, [https://www.polyu.edu.hk/gs/prospective-students/dual-phd-degree-programmes/ Dual PhD Degree students], MPhil/Msc, and Research Assistants*, etc. 
-Visiting scholars, interns, and self-funded students are also welcome. 
-Send me an email if you are interested. 
-\[[./openings.html *Please click here for position details.*]\]
-~~~
 
 ~~~
 >>> *Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using Data Mining\/Machine Learning\/Artificial Intelligence!*
@@ -47,13 +43,20 @@ Send me an email if you are interested.
 
 
 Data Mining and Machine Learning, with a particular focus on: 
-- *Recommender Systems (RecSys)* 
+- *Recommender Systems (RecSys)* and *Management Information Systems (MIS)* 
 - *Large Language Models (LLMs)*
 - *Trustworthy AI (Adversarial Attacks & Robustness, Fairness, Explainability, etc.)*
-- *Social Computing*
 - *Graph Neural Networks (GNNs)*
 
 
+~~~
+
+>>>[./openings.html *Openings: *] 
+Our research group are actively recruiting self-motivated *Postdoc, Ph.D. students, [https://www.polyu.edu.hk/gs/prospective-students/dual-phd-degree-programmes/ Dual PhD Degree students], MPhil/Msc, and Research Assistants*, etc. 
+Visiting scholars, interns, and self-funded students are also welcome. 
+Send me an email if you are interested. 
+\[[./openings.html *Please click here for position details.*]\]
+~~~
 
 
 
