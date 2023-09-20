@@ -6,8 +6,8 @@
 {}{img_left}{images/Wenqi.jpg}{Image of Wenqi}{160}{175}{images/Wenqi.JPG}
 
 Assistant Professor \n
-Department of Computing (COMP), Faculty of Engineering \n
-Department of Management and Marketing (MM), Business School \n
+[https://www.polyu.edu.hk/comp/people/academic-staff/ Department of Computing (COMP)], Faculty of Engineering \n
+[https://www.polyu.edu.hk/mm/people/academic-staff/ Department of Management and Marketing (MM)], Business School \n
 The Hong Kong Polytechnic University (PolyU)
 
 
@@ -62,7 +62,7 @@ Send me an email if you are interested.
 
 == News
 : {*2023*}
-- 09/2023: Our tutorial on “[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]” is accepted by *ICDM 2023*. Congratulations to Jiatong, Zihuai, and Yunqing. [./tutorials.html *More*] 
+- 09/2023: Our tutorial on “[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]” is accepted by *ICDM 2023*. Congratulations to Jiatong, Zihuai, and Yunqing. [https://advanced-recommender-systems.github.io/llms_rec_tutorial/ *More*] 
 - 07/2023: Our new preprint "[https://arxiv.org/abs/2307.07171 *Certified Robustness for Large Language Models with Self-Denoising*]" is online. 
 - 07/2023: Our new preprint "[https://arxiv.org/abs/2307.03393 *Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs*]" is online. 
 - 07/2023: Our new preprint "[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]" is online. 
