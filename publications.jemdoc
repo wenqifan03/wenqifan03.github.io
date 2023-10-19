@@ -33,6 +33,22 @@
 
 == Recent Preprints
 
+
+- Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
+*FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
+arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
+
+
+- Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
+*Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
+arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
+
+
+- Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
+*Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
+arXiv:2310.11046, 2023. \[[https://arxiv.org/abs/2310.11046 ArXiv]\] 
+
+
 - Zhen Zhang, Guanhua Zhang, Bairu Hou, *Wenqi Fan*, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang\n
 *Certified Robustness for Large Language Models with Self-Denoising* \n
 arXiv:2307.07171, 2023. \[[https://arxiv.org/abs/2307.07171 ArXiv]\] 
