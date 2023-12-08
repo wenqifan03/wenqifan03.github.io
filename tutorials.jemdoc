@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{tutorials.html}
 # jemdoc: nofooter
-= Wenqi Fan - Tutorials
+= Wenqi Fan - Tutorials/Workshops
+
+== Workshops
+
+- *Wenqi Fan*, Yujuan Ding, Xiao Huang, Qing Li \n 
+  *Large Language Models (LLMs) for Graph Learning* \n
+  The Web Conference (*WWW*), 2024. \n
+  \[[https://advanced-recommender-systems.github.io/llm4graph/  Website]\] 
 
 
 == Tutorials
@@ -10,6 +17,7 @@
   IEEE International Conference on Data Mining (*ICDM*, Tutorial), 2023. \n
   \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/ Website]\] 
   \[[https://arxiv.org/abs/2307.02046  Survey]\]
+  \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf Slides]\]
 
 
 - *Wenqi Fan*, Xiangyu Zhao, Lin Wang, Xiao Chen, Jingtong Gao, Qidong Liu, and Shijie Wang \n 
