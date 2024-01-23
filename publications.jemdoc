@@ -48,9 +48,7 @@ bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.ab
 
 
 
-- Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, *Wenqi Fan*, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\n
-*Revisiting Link Prediction: A Data Perspective* \n
-arXiv:2310.00793, 2023. \[[https://arxiv.org/abs/2310.00793  ArXiv]\] 
+
 
 
 - Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
@@ -63,9 +61,7 @@ arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\]
 arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
 
 
-- Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
-*Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
-arXiv:2310.11046, 2023. \[[https://arxiv.org/abs/2310.11046 ArXiv]\] 
+
 
 
 - Zhen Zhang, Guanhua Zhang, Bairu Hou, *Wenqi Fan*, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang\n
@@ -111,14 +107,26 @@ arXiv: 2204.01390, 2022.
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
 
+- Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
+*Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
+In The Web Conference (*WWW 2024*), 2024.  \n
+\[[https://arxiv.org/abs/2310.11046 ArXiv]\] 
+
+- Jiahao Zhang, Rui Xue, *Wenqi Fan*, Xin Xu, Qing Li, Jian Pei, Xiaorui Liu\n
+*Linear-Time Graph Neural Networks for Scalable Recommendations* \n
+In The Web Conference (*WWW 2024*), 2024.  \n
+\[[. ArXiv]\] 
 
 
+- Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, *Wenqi Fan*, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\n
+*Revisiting Link Prediction: A Data Perspective* \n
+In International Conference on Learning Representations (*ICLR 2024*), 2024. \[[https://arxiv.org/abs/2310.00793  ArXiv]\] 
 
 
 - *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
-   *Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
-   In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
-   \[[https://ieeexplore.ieee.org/abstract/document/10114977 PDF]\]
+*Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
+In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
+\[[https://ieeexplore.ieee.org/abstract/document/10114977 PDF]\]
 
 
 
