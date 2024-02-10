@@ -45,8 +45,9 @@ He has published his research in highly ranked journals and top conference proce
 Data Mining and Machine Learning, with a particular focus on: 
 - *Recommender Systems (RecSys)* and *Management Information Systems (MIS)* 
 - *Large Language Models (LLMs)*
-- *Trustworthy AI (Adversarial Attacks & Robustness, Fairness, Explainability, etc.)*
-- *Graph Neural Networks (GNNs)*
+- *Trustworthy AI*: Adversarial Attacks & Robustness; Fairness; Explainability, etc.
+- *Graph Machine Learning*: Graph Neural Networks; Graph Foundation Models
+- *AI/ML/DM + X*: Business; Science; 
 
 
 ~~~
@@ -65,7 +66,6 @@ Send me an email if you are interested.
 : {*2024*}
 
 - 01/2024: Two papers ("*Linear-Time Graph Neural Networks for Scalable Recommendations*" and "*Fast Graph Condensation with Structure-based Neural Tangent Kernel*") got accepted by *ACM TheWeb Conference (WWW) 2024*.  Congratulations to Jiahao ZHANG, Lin WANG, and Jiatong LI.
-
 - 01/2024: One paper ("*Revisiting Link Prediction: A data perspective*") got accepted by *ICLR 2024*. 
 
 : {*2023*}
