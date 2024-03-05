@@ -102,15 +102,27 @@ arXiv: 2206.00769, 2022.
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
 
+- Yujuan Ding, Yunshan Ma, *Wenqi Fan*, Yige Yao, Tat-Seng Chua,  Qing Li\n
+*FashionReGen: LLM-Empowered Fashion Report Generation* \n
+In The Web Conference (*WWW 2024 Demo*), 2024.  \n
+\[[. ArXiv]\] 
+
+
+- Liang-bo Ning, Zeyu Dai, Jingran Su, Chao Pan, Luning Wang, *Wenqi Fan*, Qing Li\n
+*Interpretation-Empowered Neural Cleanse for Backdoor Attacks* \n
+In The Web Conference (*WWW 2024 Short Paper*), 2024.  \n
+\[[. ArXiv]\] 
+
+
 - Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
 *Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
 In The Web Conference (*WWW 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2310.11046 ArXiv]\] 
+\[[https://arxiv.org/abs/2310.11046 ArXiv]\] \[[./papers/2024-WWW-LTGNN.pdf PDF]\] \[[https://github.com/WANGLin0126/GCSNTK Code]\]
 
 - Jiahao Zhang, Rui Xue, *Wenqi Fan*, Xin Xu, Qing Li, Jian Pei, Xiaorui Liu\n
 *Linear-Time Graph Neural Networks for Scalable Recommendations* \n
 In The Web Conference (*WWW 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2402.13973 ArXiv]\] \[[./papers/2024-WWW-LTGNN.pdf PDF]\]
+\[[https://arxiv.org/abs/2402.13973 ArXiv]\] \[[./papers/2024-WWW-LTGNN.pdf PDF]\] \[[https://github.com/QwQ2000/TheWebConf24-LTGNN-PyTorch Code]\]
 
 
 - Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
