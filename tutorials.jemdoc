@@ -1,13 +1,8 @@
 # jemdoc: menu{MENU}{tutorials.html}
 # jemdoc: nofooter
-= Wenqi Fan - Tutorials/Workshops
+= Wenqi Fan - Tutorials
 
-== Workshops
 
-- *Wenqi Fan*, Yujuan Ding, Xiao Huang, Qing Li \n 
-  *Large Language Models (LLMs) for Graph Learning* \n
-  The Web Conference (*WWW*), 2024. \n
-  \[[https://advanced-recommender-systems.github.io/llm4graph/  Website]\] 
 
 
 == Tutorials
