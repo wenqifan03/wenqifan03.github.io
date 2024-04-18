@@ -33,7 +33,6 @@ arXiv:2311.07127, 2023. \[[https://arxiv.org/abs/2311.07127  ArXiv]\]
 bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.abstract  bioRxiv]\] 
 
 
-
 - Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
 *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
 arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
@@ -42,7 +41,6 @@ arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\]
 - Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
 *Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
 arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
-
 
 
 - Zhen Zhang, Guanhua Zhang, Bairu Hou, *Wenqi Fan*, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang\n
@@ -93,7 +91,7 @@ In The Web Conference (*WWW 2024 Short Paper*), 2024.  \n
 - Lin Wang, *Wenqi Fan*, Jiatong Li, Yao Ma, Qing Li\n
 *Fast Graph Condensation with Structure-based Neural Tangent Kernel* \n
 In The Web Conference (*WWW 2024*), 2024.  \n
-\[[https://arxiv.org/abs/2310.11046 ArXiv]\] \[[./papers/2024-WWW-LTGNN.pdf PDF]\] \[[https://github.com/WANGLin0126/GCSNTK Code]\]
+\[[https://arxiv.org/abs/2310.11046 ArXiv]\] \[[./papers/2024-WWW-GC-SNTK.pdf PDF]\] \[[https://github.com/WANGLin0126/GCSNTK Code]\]
 
 - Jiahao Zhang, Rui Xue, *Wenqi Fan*, Xin Xu, Qing Li, Jian Pei, Xiaorui Liu\n
 *Linear-Time Graph Neural Networks for Scalable Recommendations* \n
