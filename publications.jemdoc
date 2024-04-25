@@ -12,6 +12,10 @@
 
 == Recent Preprints
 
+- *Wenqi Fan*, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
+*Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
+arXiv:2404.14928, 2024. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
+
 
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
 *Rethinking Large Language Model Architectures for Sequential Recommendations* \n
@@ -70,11 +74,17 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
+*A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
+In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). arXiv:2402.03358, 2024. \n
+\[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
+
+
 - Zihuai Zhao, *Wenqi Fan*,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing Li\n
 *Recommender Systems in the Era of Large Language Models (LLMs)* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
- \[[https://arxiv.org/abs/2307.02046 ArXiv]\] \[[./papers/2023-LLMs4Rec.pdf PDF]\]   \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/ Website]\] 
-  \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf Slides]\]
+\[[https://arxiv.org/abs/2307.02046 ArXiv]\] \[[./papers/2023-LLMs4Rec.pdf PDF]\]   \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/ Website]\] 
+\[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf Slides]\]
 
 - Yujuan Ding, Yunshan Ma, *Wenqi Fan*, Yige Yao, Tat-Seng Chua,  Qing Li\n
 *FashionReGen: LLM-Empowered Fashion Report Generation* \n
