@@ -12,56 +12,34 @@
 
 == Recent Preprints
 
-- Yujuan Ding, *Wenqi Fan*, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li\n
-*A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models* \n
-arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] 
-
-
 
 - *Wenqi Fan*, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
 *Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
 arXiv:2404.14928, 2024. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
 
-
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
 *Rethinking Large Language Model Architectures for Sequential Recommendations* \n
 arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
-
-
-- Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
-*A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
-arXiv:2402.03358, 2024. \[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
-
 
 - *Wenqi Fan*, Shijie Wang, Xiao-yong Wei, Xiaowei Mei, Qing Li\n
 *Untargeted Black-box Attacks for Social Recommendations* \n
 arXiv:2311.07127, 2023. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
 
-
 - Wenzhuo Tang, Renming Liu, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, *Wenqi Fan*, Yuying Xie, Jiliang Tang\n
 *A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models* \n
 bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.abstract  bioRxiv]\] 
-
 
 - Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
 *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
 arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
 
-
 - Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
 *Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
 arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
 
-
 - Zhen Zhang, Guanhua Zhang, Bairu Hou, *Wenqi Fan*, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang\n
 *Certified Robustness for Large Language Models with Self-Denoising* \n
 arXiv:2307.07171, 2023. \[[https://arxiv.org/abs/2307.07171 ArXiv]\] 
-
-
-- Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
-*Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
-arXiv:2306.06615, 2023. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
-
 
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
 *A Comprehensive Survey on Trustworthy Recommender Systems* \n
@@ -80,6 +58,16 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Yujuan Ding, *Wenqi Fan*, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li\n
+*A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models* \n
+In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*), 2024. \n
+arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] 
+
+- Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
+*Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
+In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
+arXiv:2306.06615, 2023. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
+
 - Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
 *A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
 In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). arXiv:2402.03358, 2024. \n
@@ -88,7 +76,7 @@ In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). arX
 
 - Zihuai Zhao, *Wenqi Fan*,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing Li\n
 *Recommender Systems in the Era of Large Language Models (LLMs)* \n
-In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
+In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
 \[[https://arxiv.org/abs/2307.02046 ArXiv]\] \[[./papers/2023-LLMs4Rec.pdf PDF]\]   \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/ Website]\] 
 \[[https://advanced-recommender-systems.github.io/llms_rec_tutorial/doc/RecSys+LLMs.pdf Slides]\]
 
@@ -117,7 +105,7 @@ In The Web Conference (*WWW 2024*), 2024.  \n
 
 - Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
 *Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs* \n
-In ACM SIGKDD Explorations Newsletter, 2023. \[[https://arxiv.org/abs/2307.03393 ArXiv]\] \[[./papers/2023-LLMs-on-Graphs.pdf PDF]\] 
+In ACM SIGKDD Explorations Newsletter, 2024. \[[https://arxiv.org/abs/2307.03393 ArXiv]\] \[[./papers/2023-LLMs-on-Graphs.pdf PDF]\] 
 
 
 - Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li, *Wenqi Fan*, Yao Ma, Tong Zhao, Neil Shah, Jiliang Tang\n
@@ -130,7 +118,6 @@ In International Conference on Learning Representations (*ICLR 2024*), 2024. \n
 *Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2023*), 2023.  \n
 \[[https://ieeexplore.ieee.org/abstract/document/10114977 PDF]\]
-
 
 
 - Chengyi Liu, *Wenqi Fan*, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li\n
