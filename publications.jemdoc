@@ -12,6 +12,12 @@
 
 == Recent Preprints
 
+
+- Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
+*A Survey of Mamba* \n
+arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] 
+
+
 - Haohao Qu, *Wenqi Fan*, Zihuai Zhao, Qing Li\n
 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
 arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec.pdf PDF]\] 

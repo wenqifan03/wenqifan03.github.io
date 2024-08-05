@@ -50,12 +50,7 @@ Data Mining, Machine Learning, and Artificial Intelligence, with a particular fo
 
 
 
-~~~
 
->>>[https://www.polyu.edu.hk/gs/news-and-events/irss-2024_call/ *PolyU International Research Summer School 2024*] \n
-Our research group are actively recruiting self-motivated Ph.D. students. All students who will attend our upcoming summer school are welcome to *chat with me face-to-face* about  our research and the opportunities available within our group.  
-Send me an email if you are interested. 
-~~~
 
 
 ~~~
@@ -78,13 +73,14 @@ International Web Information Systems Engineering conference (also known as the 
 == News
 
 : {*2024*}
+- 08/2024: Check out our survey on [https://arxiv.org/abs/2408.01129 *A Survey of Mamba*]. 
 - 06/2024: Gratefully receive a grant (*RGC-GRF*) as the PI to support our research on Large Language Models and Recommender Systems. Multiple PhD\/Postdoc\/RA positions are available (Year-round Recruitment). \[[./openings.html *Please click here for position details.*]\]
 - 06/2024: Our new preprint "[https://arxiv.org/abs/2406.10450 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation*]" is online. 
 - 05/2024: Our survey paper&tutorial (*[https://arxiv.org/abs/2405.06211 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models*]*) got accepted by *KDD 2024*.  Congratulations to Yujuan, Liangbo and Shijie. \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Website]\]
 - 05/2024: One paper got accepted by *KDD 2024*.  Congratulations to Liangbo and Shijie.
 - 05/2024: Gratefully receive a grant (Intra-Faculty Interdisciplinary Project) as the PC\/Co-PI to support our research.
-- 05/2024: Check out our survey on [https://arxiv.org/abs/2405.06211 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models*]
-- 04/2024: Check out our survey on [https://arxiv.org/abs/2404.14928 *Graph Machine Learning in the Era of Large Language Models (LLMs)*]
+- 05/2024: Check out our survey on [https://arxiv.org/abs/2405.06211 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models*].
+- 04/2024: Check out our survey on [https://arxiv.org/abs/2404.14928 *Graph Machine Learning in the Era of Large Language Models (LLMs)*].
 - 04/2024: Our survey paper ("*Recommender Systems in the Era of Large Language Models (LLMs)*") got accepted by *IEEE TKDE 2024*.  
 - 04/2024: Our tutorial on “[https://arxiv.org/abs/2307.02046 *Recommender Systems in the Era of Large Language Models (LLMs)*]” is accepted by *IJCAI 2024*. Congratulations to Yujuan, Shijie, and Liangbo. [. *More*] 
 - 03/2024: I was recognized as the "[./others/AI-2000-2024.png *2024 AI 2000 Most Influential Scholar Honorable Mention*]"  in the field of IR and Recommendation by the AMiner. 
