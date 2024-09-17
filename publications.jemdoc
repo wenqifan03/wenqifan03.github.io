@@ -12,11 +12,17 @@
 
 == Recent Preprints
 
+- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
+*SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation* \n
+arXiv:2409.01192, 2024. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
 
+- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
+*Joint Universal Adversarial Perturbations with Interpretations* \n
+arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
+   
 - Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
 *A Survey of Mamba* \n
 arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] 
-
 
 - Haohao Qu, *Wenqi Fan*, Zihuai Zhao, Qing Li\n
 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
@@ -30,10 +36,6 @@ arXiv:2404.14928, 2024. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./paper
 *Rethinking Large Language Model Architectures for Sequential Recommendations* \n
 arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
 
-- *Wenqi Fan*, Shijie Wang, Xiao-yong Wei, Xiaowei Mei, Qing Li\n
-*Untargeted Black-box Attacks for Social Recommendations* \n
-arXiv:2311.07127, 2023. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
-
 - Wenzhuo Tang, Renming Liu, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, *Wenqi Fan*, Yuying Xie, Jiliang Tang\n
 *A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models* \n
 bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.abstract  bioRxiv]\] 
@@ -45,10 +47,6 @@ arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\]
 - Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
 *Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
 arXiv:2310.09874, 2023. \[[https://arxiv.org/abs/2310.09874  ArXiv]\] 
-
-- Zhen Zhang, Guanhua Zhang, Bairu Hou, *Wenqi Fan*, Qing Li, Sijia Liu, Yang Zhang, Shiyu Chang\n
-*Certified Robustness for Large Language Models with Self-Denoising* \n
-arXiv:2307.07171, 2023. \[[https://arxiv.org/abs/2307.07171 ArXiv]\] 
 
 - *Wenqi Fan*, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing Li\n
 *A Comprehensive Survey on Trustworthy Recommender Systems* \n
@@ -67,20 +65,25 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+-  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
+*Multi-agent Attacks for Black-box Social Recommendations* \n
+In ACM Transactions on Information Systems (*ACM TOIS*), 2024. \n
+arXiv:2311.07127, 2024. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
+
 - Yujuan Ding, *Wenqi Fan*, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li\n
 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models* \n
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*), 2024. \n
-arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] 
+arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Tutorial&Slides]\] 
 
 - Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
 *Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
-arXiv:2306.06615, 2023. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
+arXiv:2306.06615, 2024. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
 
 - Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
 *A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
-In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). arXiv:2402.03358, 2024. \n
-\[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
+In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). \n
+arXiv:2402.03358, 2024.  \[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
 
 
 - Zihuai Zhao, *Wenqi Fan*,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing Li\n
