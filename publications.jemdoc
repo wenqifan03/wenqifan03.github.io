@@ -28,7 +28,7 @@ arXiv:2410.05298, 2024. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
 *SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation* \n
 arXiv:2409.01192, 2024. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
 
-- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
+- Liang-bo Ning, Zeyu Dai, *Wenqi Fan*, Jingran Su, Chao Pan, Luning Wang, Qing Li\n
 *Joint Universal Adversarial Perturbations with Interpretations* \n
 arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
    
@@ -38,7 +38,7 @@ arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./paper
 
 - Haohao Qu, *Wenqi Fan*, Zihuai Zhao, Qing Li\n
 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
-arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec.pdf PDF]\] 
+arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec.pdf PDF]\] \[[./papers/2024-TokenRec-slides.pdf PDF]\] 
 
 - *Wenqi Fan*, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
 *Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
