@@ -13,15 +13,33 @@
 == Recent Preprints
 
 
+- *Wenqi Fan*, Yi Zhou, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li\n
+*Computational Protein Science in the Era of Large Language Models (LLMs)* \n
+arXiv:2501.10282, 2025. \[[https://arxiv.org/abs/2501.10282  ArXiv]\]
+
+- Shijie Wang, *Wenqi Fan*, Yue Feng, Xinyu Ma, Shuaiqiang Wang, Dawei Yin\n
+*Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* \n
+arXiv:2501.02226, 2025. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
+
+
+- Chengyi Liu, Jiahao Zhang, Shijie Wang, *Wenqi Fan*, Qing Li\n
+*Score-based Generative Diffusion Models for Social Recommendations* \n
+arXiv:2412.15579, 2024. \[[https://arxiv.org/abs/2412.15579  ArXiv]\]
+
+
+- Peixin Xu, Yujuan Ding, *Wenqi Fan*\n
+*ChartAdapter: Large Vision-Language Model for Chart Summarization* \n
+arXiv:2412.20715, 2024. \[[https://arxiv.org/abs/2412.20715  ArXiv]\]
+
+
+- Jingzhe Liu, Haitao Mao, Zhikai Chen, *Wenqi Fan*, Mingxuan Ju, Tong Zhao, Neil Shah, Jiliang Tang\n
+*One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs* \n
+arXiv:2412.00315, 2024. \[[https://arxiv.org/abs/2412.00315  ArXiv]\]
 
 
 - Hang Li, Wei Jin, Geri Skenderi, Harry Shomer, Wenzhuo Tang, *Wenqi Fan*, Jiliang Tang\n
 *Sub-graph Based Diffusion Model for Link Prediction* \n
 arXiv:2409.08487, 2024. \[[https://arxiv.org/abs/2409.08487  ArXiv]\]
-
-- Xinnan Dai, Haohao Qu, Yifen Shen, Bohang Zhang, Qihao Wen, *Wenqi Fan*, Dongsheng Li, Jiliang Tang, Caihua Shan\n
-*How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension* \n
-arXiv:2410.05298, 2024. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
 
 
 - Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
@@ -76,6 +94,14 @@ arXiv: 2206.00769, 2022.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+
+
+- Xinnan Dai, Haohao Qu, Yifen Shen, Bohang Zhang, Qihao Wen, *Wenqi Fan*, Dongsheng Li, Jiliang Tang, Caihua Shan\n
+*How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension* \n
+In International Conference on Learning Representations (*ICLR 2025*), 2025. \n
+arXiv:2410.05298, 2024. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
+
 
 -  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
 *Multi-agent Attacks for Black-box Social Recommendations* \n

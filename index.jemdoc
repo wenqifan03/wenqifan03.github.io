@@ -24,7 +24,7 @@ Office: PQ743, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 == Short Bio
 
 
-Dr. *Wenqi Fan* is currently an Assistant Professor of the Department of Computing (COMP) & Department of Management and Marketing (MM), The Hong Kong Polytechnic University (PolyU). Before that, he was a Research Assistant Professor and a Postdoctoral Fellow at PolyU (2020-2023). He received his Ph.D. degree in computer science from the City University of Hong Kong (2017-2020), under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
+Prof. *Wenqi Fan* is currently an Assistant Professor of the Department of Computing (COMP) & Department of Management and Marketing (MM), The Hong Kong Polytechnic University (PolyU). Before that, he was a Research Assistant Professor and a Postdoctoral Fellow at PolyU (2020-2023). He received his Ph.D. degree in computer science from the City University of Hong Kong (2017-2020), under the supervision of [https://www4.comp.polyu.edu.hk/~csqli/ *Prof. Qing LI*] and [http://www.cs.cityu.edu.hk/~jianwang/ *Prof. Jianping WANG*]. 
 From 2018 to 2021, he was a  research scholar of [http://www.dse.cse.msu.edu Data Science and Engineering (DSE) Lab] at Michigan State University (MSU), under the supervision of [http://www.cse.msu.edu/~tangjili *Prof. Jiliang Tang*]. 
 He is recognized as the *AI 2000 Most Influential Scholar Honorable Mention* ([./others/AI-2000-2022.png 2022], [./others/AI-2000-2023.png 2023], [./others/AI-2000-2024.png 2024]) , and one of the World’s Top 2% Scientists by Stanford University (2023, 2024). 
 His research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council (*RGC-GRF*), National Natural Science Foundation of China (*NSFC*), Hong Kong Innovation and Technology Commission (*ITF*), etc. 
@@ -43,10 +43,10 @@ He has published his research in highly ranked journals and top conference proce
 
 Data Mining, Machine Learning, and Artificial Intelligence, with a particular focus on: 
 - *Recommender Systems (RecSys)* and *Management Information Systems (MIS)* 
-- *Large Language Models (LLMs)*
+- *Large Language Models (LLMs)* and *Retrieval-Augmented Generation (RAG)*
 - *Trustworthy AI*: Adversarial Attacks & Robustness; Fairness; Explainability, etc.
 - *Graph Machine Learning*: Graph Neural Networks; Graph Foundation Models
-- *AI\/ML\/DM + X*: Business; Science.
+- *AI\/ML\/DM + X*: Business; Science; Healthcare.
 
 
 
@@ -64,9 +64,9 @@ Send me an email if you are interested (Year-round Recruitment).
 
 
 ~~~
->>> *Call for Papers* (Workshop@ICDE 2025): [https://wise2024-qatar.com/graph-machine-learning-on-web-and-social-media/  *Data Engineering Meets Large Language Models: Challenges and Opportunities*]  \n
+>>> *Call for Papers* (Workshop@ICDE 2025): [https://advanced-recommender-systems.github.io/Data-meets-LLMs/  *Data Engineering Meets Large Language Models: Challenges and Opportunities*]  \n
 IEEE International Conference on Data Engineering (also known as the *ICDE* conference), 2025. \n
-*Submission Deadline: January 7th, 2025.* ~~~~~~~~~~~~Location: *Hong Kong*. ~~~~~~~~~~~~Conference Dates: May, 2025, Half-Day. 
+*Submission Deadline: February 5th, 2025.* ~~~~~~~~~~~~Location: *Hong Kong*. ~~~~~~~~~~~~Conference Dates: May 19th, 2025, Half-Day. 
 ~~~
 
 
@@ -75,9 +75,14 @@ IEEE International Conference on Data Engineering (also known as the *ICDE* conf
 
 
 == News
+: {*2025*}
+- 01/2025: One paper (*[https://arxiv.org/abs/2410.05298 How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension]*) got accepted by *ICLR 2025*. Congratulations to Xinnan and Haohao. 
+- 01/2025: Check out our survey on "[https://arxiv.org/abs/2501.10282 *Computational Protein Science in the Era of Large Language Models (LLMs)*]". 
+- 01/2025: Our new preprint "[https://arxiv.org/abs/2501.02226 *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation*]" is online. 
+
 
 : {*2024*}
-- 12/2024: Our tutorial on “[. * Towards Retrieval-Augmented Large Language Models: Data Management and System Design*]” is accepted by *ICDE 2025*. Congratulations to Pengjing, Yujuan, Shijie, and Liangbo. [. *More*] 
+- 12/2024: Our tutorial on “[. *Towards Retrieval-Augmented Large Language Models: Data Management and System Design*]” is accepted by *ICDE 2025*. Congratulations to Pengjing, Yujuan, Shijie, and Liangbo. [. *More*] 
 - 10/2024: Jiahao Zhang has successfully passed the MPhil Oral Examination and will  be pursuing his PhD at The Pennsylvania State University (PSU). Congratulations!
 - 10/2024: Our new preprint "[https://arxiv.org/abs/2410.05298 *How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension*]" is online. 
 - 09/2024: One paper (*[https://arxiv.org/abs/2311.07127 Multi-agent Attacks for Black-box Social Recommendations]*) got accepted by *ACM TOIS 2024*. Congratulations to Shijie. 
