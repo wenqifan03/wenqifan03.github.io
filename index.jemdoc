@@ -66,7 +66,7 @@ Send me an email if you are interested (Year-round Recruitment).
 ~~~
 >>> *Call for Papers* (Workshop@ICDE 2025): [https://advanced-recommender-systems.github.io/Data-meets-LLMs/  *Data Engineering Meets Large Language Models: Challenges and Opportunities*]  \n
 IEEE International Conference on Data Engineering (also known as the *ICDE* conference), 2025. \n
-*Submission Deadline: February 5th, 2025.* ~~~~~~~~~~~~Location: *Hong Kong*. ~~~~~~~~~~~~Conference Dates: May 19th, 2025, Half-Day. 
+*Submission Deadline: February 28, 2025.* ~~~~~~~~~~~~Location: *Hong Kong*. ~~~~~~~~~~~~Conference Dates: May 19th, 2025, Half-Day. 
 ~~~
 
 
@@ -76,6 +76,8 @@ IEEE International Conference on Data Engineering (also known as the *ICDE* conf
 
 == News
 : {*2025*}
+- 03/2024: Our survey paper on [https://arxiv.org/abs/2404.14928 *Graph Machine Learning in the Era of Large Language Models (LLMs)*] has been accepted by ACM TIST.  Congratulations to Shijie, Jiani, and our collaborators.
+- 03/2025: Check out our paper on "[https://arxiv.org/abs/2503.09382 *Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*]", "[https://arxiv.org/abs/2503.09363 *Towards Graph Foundation Models: A Transferability Perspective*]", "[https://arxiv.org/abs/2502.18771 *Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation*]".
 - 01/2025: One paper (*[https://arxiv.org/abs/2410.05298 How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension]*) got accepted by *ICLR 2025*. Congratulations to Xinnan and Haohao. 
 - 01/2025: Check out our survey on "[https://arxiv.org/abs/2501.10282 *Computational Protein Science in the Era of Large Language Models (LLMs)*]". 
 - 01/2025: Our new preprint "[https://arxiv.org/abs/2501.02226 *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation*]" is online. 

@@ -13,6 +13,18 @@
 == Recent Preprints
 
 
+- Jiani Huang, Shijie Wang, Liang-bo Ning, *Wenqi Fan*, Shuaiqiang Wang, Dawei Yin, Qing Li\n
+*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs* \n
+arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
+
+- Yuxiang Wang, *Wenqi Fan*, Suhang Wang, Yao Ma\n
+*Towards Graph Foundation Models: A Transferability Perspective* \n
+arXiv:2503.09363 , 2025. \[[https://arxiv.org/abs/2503.09363  ArXiv]\]
+
+- Yuxiang Wang, Xinnan Dai, *Wenqi Fan*, Yao Ma\n
+*Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation* \n
+arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]
+
 - *Wenqi Fan*, Yi Zhou, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li\n
 *Computational Protein Science in the Era of Large Language Models (LLMs)* \n
 arXiv:2501.10282, 2025. \[[https://arxiv.org/abs/2501.10282  ArXiv]\]
@@ -20,7 +32,6 @@ arXiv:2501.10282, 2025. \[[https://arxiv.org/abs/2501.10282  ArXiv]\]
 - Shijie Wang, *Wenqi Fan*, Yue Feng, Xinyu Ma, Shuaiqiang Wang, Dawei Yin\n
 *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* \n
 arXiv:2501.02226, 2025. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
-
 
 - Chengyi Liu, Jiahao Zhang, Shijie Wang, *Wenqi Fan*, Qing Li\n
 *Score-based Generative Diffusion Models for Social Recommendations* \n
@@ -58,10 +69,6 @@ arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./paper
 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
 arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec.pdf PDF]\] \[[./papers/2024-TokenRec-slides.pdf PDF]\] 
 
-- *Wenqi Fan*, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
-*Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
-arXiv:2404.14928, 2024. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
-
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
 *Rethinking Large Language Model Architectures for Sequential Recommendations* \n
 arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
@@ -70,9 +77,6 @@ arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./paper
 *A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models* \n
 bioRxiv, 2023. \[[https://www.biorxiv.org/content/10.1101/2023.10.13.562243v1.abstract  bioRxiv]\] 
 
-- Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
-*FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
-arXiv:2310.02401, 2023. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
 
 - Jiahao Wu, Qijiong Liu, Hengchang Hu, *Wenqi Fan*, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke Tang\n
 *Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation* \n
@@ -95,12 +99,20 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, *Wenqi Fan*, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
+*Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
+ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2025.  \n
+arXiv:2404.14928, 2025. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
 
+- Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
+*FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
+ACM SIGKDD Explorations Newsletter, 2025 \n
+arXiv:2310.02401, 2025. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
 
 - Xinnan Dai, Haohao Qu, Yifen Shen, Bohang Zhang, Qihao Wen, *Wenqi Fan*, Dongsheng Li, Jiliang Tang, Caihua Shan\n
 *How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension* \n
 In International Conference on Learning Representations (*ICLR 2025*), 2025. \n
-arXiv:2410.05298, 2024. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
+arXiv:2410.05298, 2025. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
 
 
 -  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
