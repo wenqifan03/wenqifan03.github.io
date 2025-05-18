@@ -49,9 +49,7 @@ arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]
 *Computational Protein Science in the Era of Large Language Models (LLMs)* \n
 arXiv:2501.10282, 2025. \[[https://arxiv.org/abs/2501.10282  ArXiv]\]
 
-- Shijie Wang, *Wenqi Fan*, Yue Feng, Xinyu Ma, Shuaiqiang Wang, Dawei Yin\n
-*Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* \n
-arXiv:2501.02226, 2025. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
+
 
 - Chengyi Liu, Jiahao Zhang, Shijie Wang, *Wenqi Fan*, Qing Li\n
 *Score-based Generative Diffusion Models for Social Recommendations* \n
@@ -118,6 +116,21 @@ arXiv: 2206.00769, 2022.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+- Shijie Wang, *Wenqi Fan*, Yue Feng, Xinyu Ma, Shuaiqiang Wang, Dawei Yin\n
+*Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* \n
+In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Main 2025*), 2025. \n
+arXiv:2501.02226, 2025. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
+
+- Yanhao Jia, Xinyi Wu, Li Hao, QinglinZhang, Yuxiao Hu, Shuai Zhao, *Wenqi Fan*\n
+*Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education* \n
+In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Main 2025*), 2025. \n
+arXiv:2502.05863, 2025. \[[https://arxiv.org/abs/2502.05863  ArXiv]\]
+
+- Xiao Chen, Changyi Ma, *Wenqi Fan*, Zhaoxiang Zhang, and Qing Li\n
+*Cross-layer and Cross-head Knowledge Distillation for Small Language Model-based Recommendation* \n
+In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Finding 2025*), 2025. \n
+
 
 - Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, *Wenqi Fan*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li \n
 *A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models* \n
