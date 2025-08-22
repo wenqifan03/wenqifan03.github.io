@@ -440,7 +440,7 @@ def nl(f, withcount=False, codemode=False):
     r = re.match('(%s+) ' % m, s)
     if not r:
       raise SyntaxError("couldn't handle the jandal (code 12039) on line"
-                " %d" % f.linenum)
+                " %d" % f.linenum % r)
 
     if not codemode:
       s = s.lstrip('-.=:')
