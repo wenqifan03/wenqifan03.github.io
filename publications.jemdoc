@@ -33,9 +33,6 @@ arXiv:2504.04199, 2025. \[[https://arxiv.org/abs/2504.04199  ArXiv]\]
 arXiv:2504.02458, 2025. \[[https://arxiv.org/abs/2504.02458   ArXiv]\]
 
 
-- Jiani Huang, Shijie Wang, Liang-bo Ning, *Wenqi Fan*, Shuaiqiang Wang, Dawei Yin, Qing Li\n
-*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs* \n
-arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
 
 - Yuxiang Wang, *Wenqi Fan*, Suhang Wang, Yao Ma\n
 *Towards Graph Foundation Models: A Transferability Perspective* \n
@@ -104,6 +101,23 @@ arXiv: 2206.00769, 2022.
 
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
+
+
+- Chengyi Liu, Xiao Chen, Shijie Wang, *Wenqi Fan* and Qing Li \n
+*Continuous-time Discrete-space Diffusion Model for Recommendation* \n
+The 19th ACM International Conference on Web Search and Data Mining (*WSDM 2026*), 2026.
+
+
+- Jiani Huang, Shijie Wang, Liangbo Ning, *Wenqi Fan*, Shuaiqiang Wang, Dawei Yin and Qing Li \n
+ *Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs* \n
+The 19th ACM International Conference on Web Search and Data Mining (*WSDM 2026*), 2026. \n
+arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
+
+
+- Rui AN, Yifeng Zhang, Ziran Liang, *Wenqi Fan*, Yuxuanliang, Xuequn Shang, Qing Li\n
+ *Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction* \n
+ In Proceedings of 42nd IEEE International Conference on Data Engineering (*ICDE 2026*), 2026.  
+
 
 
 - Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
