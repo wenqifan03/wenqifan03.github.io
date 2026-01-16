@@ -12,11 +12,14 @@
 
 == Recent Preprints
 
+- Zihuai Zhao, Yujuan Ding, Wenqi Fan, Qing Li \n
+*WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web* \n
+arXiv:2511.14182, 2025. \[[https://arxiv.org/abs/2511.14182  ArXiv]\]
 
-- Haohao Qu, *Wenqi Fan*, Shanru Lin \n
-*Generative Recommendation with Continuous-Token Diffusion* \n
-arXiv:2504.12007, 2025. \[[https://arxiv.org/abs/2504.12007  ArXiv]\]
 
+- Yi Zhou, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan \n
+*HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens* \n
+arXiv:2512.15133, 2025. \[[https://arxiv.org/abs/2512.15133  ArXiv]\]
 
 - Liangbo Ning, *Wenqi Fan*, Qing Li \n
 *Exploring Backdoor Attack and Defense for LLM-empowered Recommendations* \n
@@ -26,12 +29,6 @@ arXiv:2504.11182, 2025. \[[https://arxiv.org/abs/2504.11182  ArXiv]\]
 - Zihuai Zhao, *Wenqi Fan*, Yao Wu, Qing Li \n
 *Investigating and Mitigating Stereotype-aware Unfairness in LLM-based Recommendations* \n
 arXiv:2504.04199, 2025. \[[https://arxiv.org/abs/2504.04199  ArXiv]\]
-
-
-- Liangbo Ning, *Wenqi Fan*, Qing Li \n
-*Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation* \n
-arXiv:2504.02458, 2025. \[[https://arxiv.org/abs/2504.02458   ArXiv]\]
-
 
 
 - Yuxiang Wang, *Wenqi Fan*, Suhang Wang, Yao Ma\n
@@ -62,10 +59,6 @@ arXiv:2412.00315, 2024. \[[https://arxiv.org/abs/2412.00315  ArXiv]\]
 arXiv:2409.08487, 2024. \[[https://arxiv.org/abs/2409.08487  ArXiv]\]
 
 
-- Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
-*SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation* \n
-arXiv:2409.01192, 2024. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
-
 - Liang-bo Ning, Zeyu Dai, *Wenqi Fan*, Jingran Su, Chao Pan, Luning Wang, Qing Li\n
 *Joint Universal Adversarial Perturbations with Interpretations* \n
 arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
@@ -73,7 +66,6 @@ arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
 - Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
 *A Survey of Mamba* \n
 arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] \[[https://mp.weixin.qq.com/s/gwE_OVWigV71Qiup7F_9Cg 机器之心中文Chinese]\]
-
 
 
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
@@ -102,6 +94,20 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+- Haohao Qu, Shanru Lin, Yujuan Ding, Yiqi Wang, and  *Wenqi Fan* \n
+*Diffusion Generative Recommendation with Continuous Tokens* \n
+In The Web Conference (*WWW 2026*), 2026.  \n
+arXiv:2504.12007, 2025. \[[https://arxiv.org/abs/2504.12007  ArXiv]\]
+
+- Chengliang Liu, Liangbo Ning, Yujuan Ding, and *Wenqi Fan* \n
+*Inference Cost Attacks for Retrieval-Augmented Large Language Models* \n
+In The Web Conference (*WWW 2026*), 2026.  \n
+
+
+- Liangbo Ning, *Wenqi Fan*, Qing Li \n
+*Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation* \n
+In ACM Transactions on Information Systems (*ACM TOIS*), 2026. \n
+arXiv:2504.02458, 2025. \[[https://arxiv.org/abs/2504.02458   ArXiv]\]
 
 - Chengyi Liu, Xiao Chen, Shijie Wang, *Wenqi Fan* and Qing Li \n
 *Continuous-time Discrete-space Diffusion Model for Recommendation* \n
