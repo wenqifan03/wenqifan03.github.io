@@ -12,7 +12,7 @@
 
 == Recent Preprints
 
-- Zihuai Zhao, Yujuan Ding, Wenqi Fan, Qing Li \n
+- Zihuai Zhao, Yujuan Ding, *Wenqi Fan*, Qing Li \n
 *WebRec: Enhancing LLM-based Recommendations with Attention-guided RAG from Web* \n
 arXiv:2511.14182, 2025. \[[https://arxiv.org/abs/2511.14182  ArXiv]\]
 
@@ -35,9 +35,7 @@ arXiv:2504.04199, 2025. \[[https://arxiv.org/abs/2504.04199  ArXiv]\]
 *Towards Graph Foundation Models: A Transferability Perspective* \n
 arXiv:2503.09363 , 2025. \[[https://arxiv.org/abs/2503.09363  ArXiv]\]
 
-- Yuxiang Wang, Xinnan Dai, *Wenqi Fan*, Yao Ma\n
-*Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation* \n
-arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]
+
 
 - *Wenqi Fan*, Yi Zhou, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li\n
 *Computational Protein Science in the Era of Large Language Models (LLMs)* \n
@@ -57,15 +55,6 @@ arXiv:2412.00315, 2024. \[[https://arxiv.org/abs/2412.00315  ArXiv]\]
 - Hang Li, Wei Jin, Geri Skenderi, Harry Shomer, Wenzhuo Tang, *Wenqi Fan*, Jiliang Tang\n
 *Sub-graph Based Diffusion Model for Link Prediction* \n
 arXiv:2409.08487, 2024. \[[https://arxiv.org/abs/2409.08487  ArXiv]\]
-
-
-- Liang-bo Ning, Zeyu Dai, *Wenqi Fan*, Jingran Su, Chao Pan, Luning Wang, Qing Li\n
-*Joint Universal Adversarial Perturbations with Interpretations* \n
-arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
-   
-- Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
-*A Survey of Mamba* \n
-arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] \[[https://mp.weixin.qq.com/s/gwE_OVWigV71Qiup7F_9Cg 机器之心中文Chinese]\]
 
 
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
@@ -94,6 +83,52 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+
+- Jiani Huang, Shijie Wang, Liang-Bo Ning, *Wenqi Fan*, Li Qing\n 
+*ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning* \n 
+In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Main*), 2026 
+
+
+- Liang-Bo Ning, Yuchen Zhu, Heqing HUANG, Xin Wang, Yi Chang, Li Qing, *Wenqi Fan* \n
+*When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents* \n
+In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Main*), 2026 
+
+
+
+- Pangjing Wu, Peter Q. Chen, Xiaodong Li, *Wenqi Fan*, Li Qing \n 
+*Datamart-Agent: LLM-Driven Game-Theoretic Agent for Data Marketplace Modeling*\n 
+In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 
+
+
+ - Yuxiang Wang, Xinnan Dai, *Wenqi Fan*, Yao Ma\n
+*Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation* \n
+In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 \n
+arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]  
+
+- Xu Yuan, Liang-Bo Ning, Qingqing Ye, *Wenqi Fan*, Li Qing\n
+*mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA* \n
+In ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*), 2026 
+
+
+- Yao Wu, Chengyi LIU, *Wenqi Fan*, Rui Zhang \n
+*Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation*\n
+In ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*), 2026 
+
+- Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
+*A Survey of Mamba* \n
+In ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2026 \n
+arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] \[[https://mp.weixin.qq.com/s/gwE_OVWigV71Qiup7F_9Cg 机器之心中文Chinese]\]
+
+
+- Richard Wai Cheung Chan, Shanru Lin, Ya-nan Ma, Hao Chen, Liangjun Jiang, *Wenqi FAN* \n
+*PriHA: A RAG-Enhanced LLM Framework for Primary Healthcare Assistant in Hong Kong* \n
+In Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD 2026*) \n
+
+
+- Liang-bo Ning, Zeyu Dai, *Wenqi Fan*, Jingran Su, Chao Pan, Luning Wang, Qing Li\n
+*Joint Universal Adversarial Perturbations with Interpretations* \n
+In Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD 2026*) \n
+arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
 
 - Yunqing LIU, Yi Zhou, *Wenqi Fan* \n
 *Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions* \n
