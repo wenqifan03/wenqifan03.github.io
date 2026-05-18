@@ -80,7 +80,7 @@ In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mini
 - Yi Zhou, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, *Wenqi Fan* \n
 *HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens* \n
 In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD AI4Science 2026*), 2026. \n
-arXiv:2512.15133, 2025. \[[https://arxiv.org/abs/2512.15133  ArXiv]\]
+arXiv:2512.15133. \[[https://arxiv.org/abs/2512.15133  ArXiv]\]
 
 - Zhuohang Jiang, Yuxin Chen, Shijie Wang, Haohao Qu,  Jindong Zhou, *Wenqi Fan*,  Qing Li, Dongxu Liang, Jun Wang \n
 *Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations* \n
@@ -90,8 +90,12 @@ In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mini
 - Liangbo Ning, *Wenqi Fan*, Qing Li \n
 *Exploring Backdoor Attack and Defense for LLM-empowered Recommendations* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2026*), 2026.  \n
-arXiv:2504.11182, 2025. \[[https://arxiv.org/abs/2504.11182  ArXiv]\]
+arXiv:2504.11182. \[[https://arxiv.org/abs/2504.11182  ArXiv]\]
 
+- Rui An, Haohao Qu, *Wenqi Fan*, Xuequn Shang, Qing Li\n
+*DeMa: Dual-Path Delay-Aware Mamba for Efficient Multivariate Time Series Analysis* \n
+In Frontiers of Computer Science (FCS), 2026. \n
+arXiv:2601.05527.
 
 - Jiani Huang, Shijie Wang, Liang-Bo Ning, *Wenqi Fan*, Qing Li\n 
 *ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning* \n 
@@ -103,7 +107,6 @@ In The 64th Annual Meeting of the Association for Computational Linguistics (*AC
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Main*), 2026 
 
 
-
 - Pangjing Wu, Peter Q. Chen, Xiaodong Li, *Wenqi Fan*, Qing Li \n 
 *Datamart-Agent: LLM-Driven Game-Theoretic Agent for Data Marketplace Modeling*\n 
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 
@@ -112,7 +115,7 @@ In The 64th Annual Meeting of the Association for Computational Linguistics (*AC
  - Yuxiang Wang, Xinnan Dai, *Wenqi Fan*, Yao Ma\n
 *Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation* \n
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 \n
-arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]  
+arXiv:2502.18771. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]  
 
 - Xu Yuan, Liang-Bo Ning, Qingqing Ye, *Wenqi Fan*, Qing Li\n
 *mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA* \n
@@ -126,7 +129,7 @@ In ACM SIGIR Conference on Research and Development in Information Retrieval (*S
 - Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
 *A Survey of Mamba* \n
 In ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2026 \n
-arXiv:2408.01129, 2024. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] \[[https://mp.weixin.qq.com/s/gwE_OVWigV71Qiup7F_9Cg 机器之心中文Chinese]\]
+arXiv:2408.01129. \[[https://arxiv.org/abs/2408.01129  ArXiv]\] \[[./papers/2024-Mamba.pdf PDF]\] \[[https://mp.weixin.qq.com/s/gwE_OVWigV71Qiup7F_9Cg 机器之心中文Chinese]\]
 
 
 - Richard Wai Cheung Chan, Shanru Lin, Ya-nan Ma, Hao Chen, Liangjun Jiang, *Wenqi FAN* \n
@@ -137,7 +140,7 @@ In Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD 2026*)
 - Liang-bo Ning, Zeyu Dai, *Wenqi Fan*, Jingran Su, Chao Pan, Luning Wang, Qing Li\n
 *Joint Universal Adversarial Perturbations with Interpretations* \n
 In Pacific-Asia Conference on Knowledge Discovery and Data Mining (*PAKDD 2026*) \n
-arXiv:2408.01715, 2024. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
+arXiv:2408.01715. \[[https://arxiv.org/abs/2408.01715  ArXiv]\]
 
 - Yunqing LIU, Yi Zhou, *Wenqi Fan* \n
 *Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions* \n
@@ -147,7 +150,7 @@ In International Conference on Learning Representations (*ICLR 2026*), 2026. \n
 - Haohao Qu, Shanru Lin, Yujuan Ding, Yiqi Wang, and  *Wenqi Fan* \n
 *Diffusion Generative Recommendation with Continuous Tokens* \n
 In The Web Conference (*WWW 2026*), 2026.  \n
-arXiv:2504.12007, 2025. \[[https://arxiv.org/abs/2504.12007  ArXiv]\]
+arXiv:2504.12007. \[[https://arxiv.org/abs/2504.12007  ArXiv]\]
 
 - Chengliang Liu, Liangbo Ning, Yujuan Ding, and *Wenqi Fan* \n
 *Inference Cost Attacks for Retrieval-Augmented Large Language Models* \n
@@ -157,7 +160,7 @@ In The Web Conference (*WWW 2026*), 2026.  \n
 - Liangbo Ning, *Wenqi Fan*, Qing Li \n
 *Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation* \n
 In ACM Transactions on Information Systems (*ACM TOIS*), 2026. \n
-arXiv:2504.02458, 2025. \[[https://arxiv.org/abs/2504.02458   ArXiv]\]
+arXiv:2504.02458. \[[https://arxiv.org/abs/2504.02458   ArXiv]\]
 
 - Chengyi Liu, Xiao Chen, Shijie Wang, *Wenqi Fan* and Qing Li \n
 *Continuous-time Discrete-space Diffusion Model for Recommendation* \n
@@ -167,7 +170,7 @@ The 19th ACM International Conference on Web Search and Data Mining (*WSDM 2026*
 - Jiani Huang, Shijie Wang, Liangbo Ning, *Wenqi Fan*, Shuaiqiang Wang, Dawei Yin and Qing Li \n
  *Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs* \n
 The 19th ACM International Conference on Web Search and Data Mining (*WSDM 2026*), 2026. \n
-arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
+arXiv:2503.09382. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
 
 
 - Rui AN, Yifeng Zhang, Ziran Liang, *Wenqi Fan*, Yuxuanliang, Xuequn Shang, Qing Li\n
@@ -181,37 +184,37 @@ arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
 - Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
 *SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation* \n
 In ACM Transactions on Information Systems (*ACM TOIS*), 2025. \n
-arXiv:2409.01192, 2024. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
+arXiv:2409.01192. \[[https://arxiv.org/abs/2409.01192  ArXiv]\]
 
 
 - Yunqing Liu, *Wenqi Fan*, Xiaoyong Wei, Qing Li \n
 *GLProtein: Global-and-Local Structure Aware Protein Representation Learning* \n
 In Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (*EMNLP Finding 2025*), 2025. \n 
-arXiv:2506.06294, 2025. \[[https://arxiv.org/abs/2506.06294  ArXiv]\]
+arXiv:2506.06294. \[[https://arxiv.org/abs/2506.06294  ArXiv]\]
 
 
 - Haohao Qu, *Wenqi Fan*, Zihuai Zhao, Qing Li \n
 *TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2025*), 2025.  \n
-arXiv:2406.10450, 2024. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec-slides.pdf Slides]\] 
+arXiv:2406.10450. \[[https://arxiv.org/abs/2406.10450  ArXiv]\] \[[./papers/2024-TokenRec-slides.pdf Slides]\] 
 
 
 - Chengyi Liu, Jiahao Zhang, Shijie Wang, *Wenqi Fan*, Qing Li\n
 *Score-based Generative Diffusion Models for Social Recommendations* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2025*), 2025.  \n
-arXiv:2412.15579, 2024. \[[https://arxiv.org/abs/2412.15579  ArXiv]\]
+arXiv:2412.15579. \[[https://arxiv.org/abs/2412.15579  ArXiv]\]
 
 
 - Shijie Wang, *Wenqi Fan*, Yue Feng, Xinyu Ma, Shuaiqiang Wang, Dawei Yin\n
 *Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation* \n
 In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Main 2025*), 2025. \n
-arXiv:2501.02226, 2025. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
+arXiv:2501.02226. \[[https://arxiv.org/abs/2501.02226  ArXiv]\]
 
 
 - Yanhao Jia, Xinyi Wu, Li Hao, QinglinZhang, Yuxiao Hu, Shuai Zhao, *Wenqi Fan*\n
 *Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education* \n
 In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Main 2025*), 2025. \n
-arXiv:2502.05863, 2025. \[[https://arxiv.org/abs/2502.05863  ArXiv]\]
+arXiv:2502.05863. \[[https://arxiv.org/abs/2502.05863  ArXiv]\]
 
 
 
@@ -222,58 +225,58 @@ In The 63rd Annual Meeting of the Association for Computational Linguistics (*AC
 - Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
 *Rethinking Large Language Model Architectures for Sequential Recommendations* \n
 In Proceedings of the 14th International Joint Conference on Natural Language Processing (IJCNLP 2025), 2025. \n
-arXiv:2402.09543, 2025. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
+arXiv:2402.09543. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
 
 
 - Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, *Wenqi Fan*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li \n
 *A Survey of WebAgents: Towards Next-Generation AI Agents for Web Automation with Large Foundation Models* \n
 In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD Tutorial&Survey Track 2025*), 2025. \n
-arXiv:2503.23350,  2025. \[[https://arxiv.org/abs/2503.23350   ArXiv]\] \[[https://biglemon-ning.github.io/WebAgents/ Website]\] \[[https://biglemon-ning.github.io/WebAgents/2025-KDD-WebAgent-tutorial-part1.pdf  Slides-Part-1]\]
+arXiv:2503.23350. \[[https://arxiv.org/abs/2503.23350   ArXiv]\] \[[https://biglemon-ning.github.io/WebAgents/ Website]\] \[[https://biglemon-ning.github.io/WebAgents/2025-KDD-WebAgent-tutorial-part1.pdf  Slides-Part-1]\]
   \[[https://biglemon-ning.github.io/WebAgents/2025-KDD-WebAgent-tutorial-part2.pdf  Slides-Part-2]\] \[[https://mp.weixin.qq.com/s/-NKuBKlNLE5vTihRhCy7kw 新智元中文Chinese]\]
 
 
 - Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, *Wenqi Fan*, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li\n
 *Graph Machine Learning in the Era of Large Language Models (LLMs)* \n
 ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2025.  \n
-arXiv:2404.14928, 2025. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
+arXiv:2404.14928. \[[https://arxiv.org/abs/2404.14928  ArXiv]\] \[[./papers/2024-GML-LLMs.pdf PDF]\] 
 
 - Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, *Wenqi Fan*, Hui Liu, Jiliang Tang\n
 *FT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models* \n
 ACM SIGKDD Explorations Newsletter, 2025 \n
-arXiv:2310.02401, 2025. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
+arXiv:2310.02401. \[[https://arxiv.org/abs/2310.02401  ArXiv]\] 
 
 - Xinnan Dai, Haohao Qu, Yifen Shen, Bohang Zhang, Qihao Wen, *Wenqi Fan*, Dongsheng Li, Jiliang Tang, Caihua Shan\n
 *How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension* \n
 In International Conference on Learning Representations (*ICLR 2025*), 2025. \n
-arXiv:2410.05298, 2025. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
+arXiv:2410.05298. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
 
 : {*2024*}
 
 -  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
 *Multi-agent Attacks for Black-box Social Recommendations* \n
 In ACM Transactions on Information Systems (*ACM TOIS*), 2024. \n
-arXiv:2311.07127, 2024. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
+arXiv:2311.07127. \[[https://arxiv.org/abs/2311.07127  ArXiv]\] 
 
 - Yujuan Ding, *Wenqi Fan*, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing Li\n
 *A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models* \n
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*), 2024. \n
-arXiv:2405.06211, 2024. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Tutorial&Slides]\] 
+arXiv:2405.06211. \[[https://arxiv.org/abs/2405.06211 ArXiv]\] \[[https://advanced-recommender-systems.github.io/RAG-Meets-LLMs/ Tutorial&Slides]\] 
 
 - Liang-bo Ning, Shijie Wang, *Wenqi Fan*, Qing Li, Xin Xu, Hao Chen, Feiran Huang\n
 *CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent* \n
 In Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD 2024*), 2024. \n
-arXiv:2504.13192, 2024. \[[https://arxiv.org/abs/2504.13192 ArXiv]\] 
+arXiv:2504.13192. \[[https://arxiv.org/abs/2504.13192 ArXiv]\] 
 
 
 - Jiatong Li, Yunqing Liu, *Wenqi Fan*, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing Li\n
 *Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective* \n
 In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2024*), 2024.  \n
-arXiv:2306.06615, 2024. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
+arXiv:2306.06615. \[[https://arxiv.org/abs/2306.06615 ArXiv]\] \[[./papers/2023-MolReGPT.pdf PDF]\] \[[https://github.com/phenixace/MolReGPT Code]\] \[[https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ 中文Chinese]\] 
 
 - Mohammad Hashemi, Shengbo Gong, Juntong Ni, *Wenqi Fan*, B. Aditya Prakash, Wei Jin\n
 *A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation* \n
 In International Joint Conference on Artificial Intelligence (*IJCAI 2024*). \n
-arXiv:2402.03358, 2024.  \[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
+arXiv:2402.03358.  \[[https://arxiv.org/abs/2402.03358  ArXiv]\] \[[./papers/2024-GraphReduction.pdf PDF]\] 
 
 
 - Zihuai Zhao, *Wenqi Fan*,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing Li\n
