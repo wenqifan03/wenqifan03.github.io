@@ -17,15 +17,6 @@
 arXiv:2511.14182, 2025. \[[https://arxiv.org/abs/2511.14182  ArXiv]\]
 
 
-- Yi Zhou, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan \n
-*HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens* \n
-arXiv:2512.15133, 2025. \[[https://arxiv.org/abs/2512.15133  ArXiv]\]
-
-- Liangbo Ning, *Wenqi Fan*, Qing Li \n
-*Exploring Backdoor Attack and Defense for LLM-empowered Recommendations* \n
-arXiv:2504.11182, 2025. \[[https://arxiv.org/abs/2504.11182  ArXiv]\]
-
-
 - Zihuai Zhao, *Wenqi Fan*, Yao Wu, Qing Li \n
 *Investigating and Mitigating Stereotype-aware Unfairness in LLM-based Recommendations* \n
 arXiv:2504.04199, 2025. \[[https://arxiv.org/abs/2504.04199  ArXiv]\]
@@ -34,7 +25,6 @@ arXiv:2504.04199, 2025. \[[https://arxiv.org/abs/2504.04199  ArXiv]\]
 - Yuxiang Wang, *Wenqi Fan*, Suhang Wang, Yao Ma\n
 *Towards Graph Foundation Models: A Transferability Perspective* \n
 arXiv:2503.09363 , 2025. \[[https://arxiv.org/abs/2503.09363  ArXiv]\]
-
 
 
 - *Wenqi Fan*, Yi Zhou, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li\n
@@ -56,10 +46,6 @@ arXiv:2412.00315, 2024. \[[https://arxiv.org/abs/2412.00315  ArXiv]\]
 *Sub-graph Based Diffusion Model for Link Prediction* \n
 arXiv:2409.08487, 2024. \[[https://arxiv.org/abs/2409.08487  ArXiv]\]
 
-
-- Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
-*Rethinking Large Language Model Architectures for Sequential Recommendations* \n
-arXiv:2402.09543, 2024. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
 
 - Wenzhuo Tang, Renming Liu, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li, *Wenqi Fan*, Yuying Xie, Jiliang Tang\n
 *A General Single-Cell Analysis Framework via Conditional Diffusion Generative Models* \n
@@ -83,19 +69,42 @@ arXiv: 2206.00769, 2022.
 
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
+: {*2026*}
 
-- Jiani Huang, Shijie Wang, Liang-Bo Ning, *Wenqi Fan*, Li Qing\n 
+
+- Shijie Wang, Chengyi LIU, Yujuan Ding, Shanru Lin, See-Kiong Ng,  Xin Xu, *Wenqi Fan* \n
+*Mixture-of-Experts Knowledge Graph Retrieval-Augmented Generation for Multi-Agent LLM-based Recommendation* \n
+In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD Research 2026*), 2026. \n
+
+
+- Yi Zhou, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, *Wenqi Fan* \n
+*HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens* \n
+In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD AI4Science 2026*), 2026. \n
+arXiv:2512.15133, 2025. \[[https://arxiv.org/abs/2512.15133  ArXiv]\]
+
+- Zhuohang Jiang, Yuxin Chen, Shijie Wang, Haohao Qu,  Jindong Zhou, *Wenqi Fan*,  Qing Li, Dongxu Liang, Jun Wang \n
+*Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations* \n
+In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (*KDD Industry 2026*), 2026. \n
+
+
+- Liangbo Ning, *Wenqi Fan*, Qing Li \n
+*Exploring Backdoor Attack and Defense for LLM-empowered Recommendations* \n
+In IEEE Transactions on Knowledge and Data Engineering (*IEEE TKDE 2026*), 2026.  \n
+arXiv:2504.11182, 2025. \[[https://arxiv.org/abs/2504.11182  ArXiv]\]
+
+
+- Jiani Huang, Shijie Wang, Liang-Bo Ning, *Wenqi Fan*, Qing Li\n 
 *ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning* \n 
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Main*), 2026 
 
 
-- Liang-Bo Ning, Yuchen Zhu, Heqing HUANG, Xin Wang, Yi Chang, Li Qing, *Wenqi Fan* \n
+- Liang-Bo Ning, Yuchen Zhu, Heqing HUANG, Xin Wang, Yi Chang, Qing Li, *Wenqi Fan* \n
 *When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents* \n
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Main*), 2026 
 
 
 
-- Pangjing Wu, Peter Q. Chen, Xiaodong Li, *Wenqi Fan*, Li Qing \n 
+- Pangjing Wu, Peter Q. Chen, Xiaodong Li, *Wenqi Fan*, Qing Li \n 
 *Datamart-Agent: LLM-Driven Game-Theoretic Agent for Data Marketplace Modeling*\n 
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 
 
@@ -105,7 +114,7 @@ In The 64th Annual Meeting of the Association for Computational Linguistics (*AC
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 \n
 arXiv:2502.18771, 2025. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]  
 
-- Xu Yuan, Liang-Bo Ning, Qingqing Ye, *Wenqi Fan*, Li Qing\n
+- Xu Yuan, Liang-Bo Ning, Qingqing Ye, *Wenqi Fan*, Qing Li\n
 *mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA* \n
 In ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*), 2026 
 
@@ -165,6 +174,8 @@ arXiv:2503.09382, 2025. \[[https://arxiv.org/abs/2503.09382  ArXiv]\]
  *Damba-ST: Domain-Adaptive Mamba for Efficient Urban Spatio-Temporal Prediction* \n
  In Proceedings of 42nd IEEE International Conference on Data Engineering (*ICDE 2026*), 2026.  
 
+: {*2025*}
+
 
 
 - Haohao Qu, Yifeng Zhang, Liangbo Ning, *Wenqi Fan*, Qing Li\n
@@ -208,6 +219,10 @@ arXiv:2502.05863, 2025. \[[https://arxiv.org/abs/2502.05863  ArXiv]\]
 *Cross-layer and Cross-head Knowledge Distillation for Small Language Model-based Recommendation* \n
 In The 63rd Annual Meeting of the Association for Computational Linguistics (*ACL Finding 2025*), 2025. \n
 
+- Hanbing Wang, Xiaorui Liu, *Wenqi Fan*, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui Liu\n
+*Rethinking Large Language Model Architectures for Sequential Recommendations* \n
+In Proceedings of the 14th International Joint Conference on Natural Language Processing (IJCNLP 2025), 2025. \n
+arXiv:2402.09543, 2025. \[[https://arxiv.org/abs/2402.09543  ArXiv]\] \[[./papers/2024-Lite-LLM4Rec.pdf PDF]\] 
 
 
 - Liangbo Ning, Ziran Liang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, *Wenqi Fan*, Xiao-yong Wei, Shanru Lin, Hui Liu, Philip S. Yu, Qing Li \n
@@ -232,6 +247,7 @@ arXiv:2310.02401, 2025. \[[https://arxiv.org/abs/2310.02401  ArXiv]\]
 In International Conference on Learning Representations (*ICLR 2025*), 2025. \n
 arXiv:2410.05298, 2025. \[[https://arxiv.org/abs/2410.05298  ArXiv]\]
 
+: {*2024*}
 
 -  Shijie Wang, *Wenqi Fan*, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing Li\n
 *Multi-agent Attacks for Black-box Social Recommendations* \n
@@ -299,6 +315,7 @@ In ACM SIGKDD Explorations Newsletter, 2024. \[[https://arxiv.org/abs/2307.03393
 In International Conference on Learning Representations (*ICLR 2024*), 2024. \n
 \[[https://arxiv.org/abs/2310.00793  ArXiv]\] 
 
+: {*2023*}
 
 - *Wenqi Fan*, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang Tang\n
 *Adversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles* \n
@@ -329,6 +346,8 @@ In Proceedings of 39th IEEE International Conference on Data Engineering (*ICDE 
 In ACM Transactions on Recommender Systems, 2023. 
 \[[https://arxiv.org/abs/2204.01390 ArXiv]\] \[[./papers/2022-AutoRec-Survey.pdf PDF]\]
 
+
+: {*2022*}
 
 - Guanhua Zhang, Yihua Zhang, Yang Zhang, *Wenqi Fan*, Qing Li, Sijia Liu, Shiyu Chang \n
 *Fairness Reprogramming* \n
@@ -375,6 +394,8 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
   \[[https://www.aaai.org/AAAI22Papers/AAAI-4964.ZhaoX.pdf PDF]\] (* Corresponding author.)
 
 
+: {*Before 2021*}
+
 - Xiangyu Zhao, Haochen Liu, *Wenqi Fan*, Hui Liu, Jiliang Tang, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, and Xiwang Yang \n
   *AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations* \n
   IEEE 21st International Conference on Data Mining (*ICDM 2021*), *best-ranked papers*. \n
@@ -389,6 +410,7 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
   *Attacking Black-box Recommendations via Copying Cross-domain User Profiles* \n
   In Proceedings of 37th IEEE International Conference on Data Engineering (*ICDE 2021, Full paper*)  \n
   \[[http://arxiv.org/abs/2005.08147 ArXiv]\] \[[./slides/ICDE2021/CopyAttack.pdf Slides]\]
+
 
 -  Haochen Liu, Jamell Dacon, *Wenqi Fan*, Hui Liu, Zitao Liu, and Jiliang Tang \n
   *Does Gender Matter? Towards Fairness in Dialogue Systems* \n
