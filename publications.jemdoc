@@ -117,6 +117,12 @@ In The 64th Annual Meeting of the Association for Computational Linguistics (*AC
 In The 64th Annual Meeting of the Association for Computational Linguistics (*ACL Findings*), 2026 \n
 arXiv:2502.18771. \[[https://arxiv.org/abs/2502.18771  ArXiv]\]  
 
+
+- Zhuohang Jiang, Xu Yuan, Haohao Qu, Shanru Lin, Kanglong Liu, *Wenqi Fan*, Qing Li \n
+*SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses* \n
+In IEEE/CVF Conference on Computer Vision and Pattern Recognition (*CVPR Findings*), 2026
+
+
 - Xu Yuan, Liang-Bo Ning, Qingqing Ye, *Wenqi Fan*, Qing Li\n
 *mKG-RAG: Leveraging Multimodal Knowledge Graphs in Retrieval-Augmented Generation for Knowledge-intensive VQA* \n
 In ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*), 2026 
@@ -125,6 +131,7 @@ In ACM SIGIR Conference on Research and Development in Information Retrieval (*S
 - Yao Wu, Chengyi LIU, *Wenqi Fan*, Rui Zhang \n
 *Beyond Static Diffusion: Explicitly Modeling Temporal Patterns in Sequential Recommendation*\n
 In ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*), 2026 
+
 
 - Haohao Qu, Liangbo Ning, Rui An, *Wenqi Fan*, Tyler Derr, Xin Xu, Qing Li\n
 *A Survey of Mamba* \n
