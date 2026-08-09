@@ -269,6 +269,58 @@ div.infoblock p + p {
 	margin-top: 0.8em;
 }
 
+/* Homepage opportunity highlights */
+#layout-content > div.infoblock:nth-of-type(3) > div.blocktitle,
+#layout-content > div.infoblock:nth-of-type(3) > div.blockcontent {
+	background: #fff7e6;
+	border: 1px solid #e3a23a;
+}
+
+#layout-content > div.infoblock:nth-of-type(3) > div.blockcontent {
+	border-left: 4px solid #c86b16;
+}
+
+#layout-content > div.infoblock:nth-of-type(4) > div.blocktitle,
+#layout-content > div.infoblock:nth-of-type(4) > div.blockcontent {
+	background: #edf8f7;
+	border: 1px solid #72aaa5;
+}
+
+#layout-content > div.infoblock:nth-of-type(4) > div.blockcontent {
+	border-left: 4px solid #247c78;
+}
+
+#layout-content > div.infoblock:nth-of-type(3) > div.blocktitle {
+	color: #8f4308;
+}
+
+#layout-content > div.infoblock:nth-of-type(4) > div.blocktitle {
+	color: #155f5b;
+}
+
+#layout-content > div.infoblock:nth-of-type(3) > div.blocktitle::before {
+	content: "\1F4BC";
+	margin-right: 0.4em;
+}
+
+#layout-content > div.infoblock:nth-of-type(4) > div.blocktitle::before {
+	content: "\1F91D";
+	margin-right: 0.4em;
+}
+
+.job-market-badge {
+	display: inline-block;
+	margin-left: 0.35em;
+	padding: 0.08em 0.45em;
+	border: 1px solid #e3a23a;
+	border-radius: 0.7em;
+	background: #fff7e6;
+	color: #8f4308;
+	font-size: 0.85em;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
 div.codeblock > div.blockcontent {
 	background: #f6f6f6;
 }
