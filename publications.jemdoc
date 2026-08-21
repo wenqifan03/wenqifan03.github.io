@@ -12,6 +12,11 @@
 
 == Recent Preprints
 
+- Yujuan Ding, Zihuai Zhao, Pangjing Wu, Chengliang Liu, Hanlou Zhang, Shanru Lin, Bill Pao, Dawei Yin, Na Zou, Jieping Ye, Xin Xu, Kai H. Lim, Hongxia Yang, Chengqi Zhang, Qing Li, *Wenqi Fan* \n
+*From Solo Control to Enterprise Scale Through Agentic AI: A Survey of One-Person Agentic Company (OPAC)* \n
+Preprints, 2026. \[[https://www.preprints.org/manuscript/202608.1414 Preprint]\] \[[https://doi.org/10.20944/preprints202608.1414.v1 DOI]\]
+
+
 - Xu Yuan, Yi Wang, Zhuohang Jiang, Haohao Qu, Yujuan Ding, Shanru Lin, Guoliang Xing, Hongxia Yang, Jiannong Cao, Qing Li, *Wenqi Fan* \n
 *A Survey on AI Smart Glasses for Wearable Intelligence: From Egocentric Sensing to Agentic Personalization* \n
 Preprints, 2026. \[[https://www.preprints.org/manuscript/202608.0648 Preprint]\] \[[https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SQ9UbHIAAAAJ&sortby=pubdate&citation_for_view=SQ9UbHIAAAAJ:MLfJN-KU85MC Google Scholar]\]
@@ -75,6 +80,14 @@ arXiv: 2206.00769, 2022.
 == Selected Conference and Journal Publications \[[https://scholar.google.com/citations?user=SQ9UbHIAAAAJ&hl=en  *Google Scholar*]\]
 
 : {*2026*}
+
+- Guojie Liu, Yiqi Wang, Yanfeng Yang, *Wenqi Fan*, Songlei Jian, Jianfeng Zhang, Jie Yu \n
+*Cognitive Chunking for Soft Prompts: Accelerating Compressor Learning via Block-wise Causal Masking* \n
+In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (*EMNLP Main 2026*), 2026. \n
+
+- Yi Zhou, Qipeng Wang, Yunqing Liu, Jun Xia, Qing Li, *Wenqi Fan* \n
+*Unlocking Multimodal Protein Language Models at Inference Time* \n
+In Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (*EMNLP Main 2026*), 2026. \n
 
 
 - Shijie Wang, Chengyi LIU, Yujuan Ding, Shanru Lin, See-Kiong Ng,  Xin Xu, *Wenqi Fan* \n
@@ -471,7 +484,5 @@ ACM Transactions on Intelligent Systems and Technology (*ACM TIST*), 2022.  \n
    *Deep Modeling of Social Relations for Recommendation*  \n
    In Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), 2018. \n
    \[[https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16075 PDF]\]
-
-
 
 
